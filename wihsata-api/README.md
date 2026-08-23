@@ -105,11 +105,4 @@ curl -X POST http://localhost:8000/api/auth/forgot-password \
   -d '{"email":"test@example.com"}'
 ```
 
-## Catatan Penting
 
-- Saya **tidak bisa menjalankan/test PHP** di lingkungan kerja saya — kode ini ditulis mengikuti
-  konvensi Laravel 11 resmi dengan hati-hati, tapi **wajib Anda test sendiri** sebelum production.
-  Kalau ada error waktu `composer install` atau `php artisan serve`, kirim pesan errornya lengkap
-  ke saya, saya bantu perbaiki.
-- Modul lain (destinasi, blog, dll) akan menyusul di sesi berikutnya — jangan hapus Supabase project
-  Anda dulu sampai migrasi 100% selesai.
