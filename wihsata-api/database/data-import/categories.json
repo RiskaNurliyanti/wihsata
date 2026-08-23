@@ -1,0 +1,74 @@
+[
+  {
+    "id": "6a8ed331-9d52-4c78-a5fa-f6cf22e42127",
+    "name": "Pantai",
+    "slug": "pantai",
+    "icon": "waves",
+    "created_at": "2026-07-18 05:52:50.775033+00",
+    "updated_at": "2026-07-18 05:52:50.775033+00"
+  },
+  {
+    "id": "8a888b8d-5abf-4445-9345-2f915c6a6af4",
+    "name": "Gunung",
+    "slug": "gunung",
+    "icon": "mountain",
+    "created_at": "2026-07-18 05:52:50.775033+00",
+    "updated_at": "2026-07-18 05:52:50.775033+00"
+  },
+  {
+    "id": "2d6a06fd-57fb-487c-86ad-502e5b93b5d9",
+    "name": "Air Terjun",
+    "slug": "air-terjun",
+    "icon": "droplets",
+    "created_at": "2026-07-18 05:52:50.775033+00",
+    "updated_at": "2026-07-18 05:52:50.775033+00"
+  },
+  {
+    "id": "0f899aae-4894-4aa2-a5d8-3ddb5b1f7887",
+    "name": "Kuliner",
+    "slug": "kuliner",
+    "icon": "utensils",
+    "created_at": "2026-07-18 05:52:50.775033+00",
+    "updated_at": "2026-07-18 05:52:50.775033+00"
+  },
+  {
+    "id": "be57f13a-8ee9-41f6-a20c-2e94437b615c",
+    "name": "Budaya & Sejarah",
+    "slug": "budaya-sejarah",
+    "icon": "landmark",
+    "created_at": "2026-07-18 05:52:50.775033+00",
+    "updated_at": "2026-07-18 05:52:50.775033+00"
+  },
+  {
+    "id": "cf8afde8-c701-4dd9-8705-0dd4bb39fa09",
+    "name": "Taman & Hutan",
+    "slug": "taman-hutan",
+    "icon": "trees",
+    "created_at": "2026-07-18 05:52:50.775033+00",
+    "updated_at": "2026-07-18 05:52:50.775033+00"
+  },
+  {
+    "id": "e1967b50-3a83-4e5e-89ee-fc8ba0857331",
+    "name": "Laut",
+    "slug": "laut",
+    "icon": "laut",
+    "created_at": "2026-07-21 02:42:16.980139+00",
+    "updated_at": "2026-07-21 02:42:16.980139+00"
+  },
+  {
+    "id": "15b84c3b-f4b3-44e0-b092-d40701f78de3",
+    "name": "Dermaga",
+    "slug": "dermaga",
+    "icon": "Dermaga",
+    "created_at": "2026-07-21 03:32:41.333432+00",
+    "updated_at": "2026-07-21 03:32:41.333432+00"
+  },
+  {
+    "id": "f93653a3-585a-4d9b-967c-ef2025e05d9d",
+    "name": "Penginapan",
+    "slug": "penginapan",
+    "icon": "Penginapan",
+    "created_at": "2026-07-21 12:41:54.477817+00",
+    "updated_at": "2026-07-21 12:41:54.477817+00"
+  }
+]

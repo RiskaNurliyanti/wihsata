@@ -1,0 +1,11 @@
+{
+  "source": "full-backup.sql (Supabase pg_dump)",
+  "counts": {
+    "categories": 9,
+    "districts": 517,
+    "users": 2,
+    "destinations": 8,
+    "subscriptions": 2,
+    "trips": 4
+  }
+}

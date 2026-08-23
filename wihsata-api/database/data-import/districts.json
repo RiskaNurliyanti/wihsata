@@ -1,0 +1,3621 @@
+[
+  {
+    "id": "f1a6d994-d14b-471f-bac3-ab5b486ef9a8",
+    "name": "Samarinda",
+    "province": "Kalimantan Timur",
+    "created_at": "2026-07-18 05:52:50.775033+00",
+    "updated_at": "2026-07-18 05:52:50.775033+00"
+  },
+  {
+    "id": "5fd2b89c-908c-4754-9f0b-c4b28b7e9035",
+    "name": "Balikpapan",
+    "province": "Kalimantan Timur",
+    "created_at": "2026-07-18 05:52:50.775033+00",
+    "updated_at": "2026-07-18 05:52:50.775033+00"
+  },
+  {
+    "id": "8639b3c4-8560-4b13-8d2a-7ee145dd7181",
+    "name": "Kutai Kartanegara",
+    "province": "Kalimantan Timur",
+    "created_at": "2026-07-18 05:52:50.775033+00",
+    "updated_at": "2026-07-18 05:52:50.775033+00"
+  },
+  {
+    "id": "9b38db95-e9a2-4813-b03d-38433032338f",
+    "name": "Yogyakarta",
+    "province": "Daerah Istimewa Yogyakarta",
+    "created_at": "2026-07-18 05:52:50.775033+00",
+    "updated_at": "2026-07-18 05:52:50.775033+00"
+  },
+  {
+    "id": "40dc598f-4608-4723-873d-1b82850f8f2d",
+    "name": "Bandung",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 05:52:50.775033+00",
+    "updated_at": "2026-07-18 05:52:50.775033+00"
+  },
+  {
+    "id": "b9416b99-f15a-4780-9bb1-13cb8e129b9b",
+    "name": "Denpasar",
+    "province": "Bali",
+    "created_at": "2026-07-18 05:52:50.775033+00",
+    "updated_at": "2026-07-18 05:52:50.775033+00"
+  },
+  {
+    "id": "af74c3cc-fc91-46f7-895c-4ae75f24ffda",
+    "name": "Kabupaten Aceh Barat",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9c67fa34-f14b-4230-892a-64be902dcef1",
+    "name": "Kabupaten Aceh Barat Daya",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "5d28f681-84b5-4fb1-8df1-782d6a1150bc",
+    "name": "Kabupaten Aceh Besar",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "cd777707-f429-4f19-b72c-468530ab274f",
+    "name": "Kabupaten Aceh Jaya",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "de001d15-f08e-4f0b-b8e8-d066f9d6d5ab",
+    "name": "Kabupaten Aceh Selatan",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "eab7d083-b6af-41a4-b573-975a996ca042",
+    "name": "Kabupaten Aceh Singkil",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "de4e454f-c65b-43f1-b0c1-e247a29911ec",
+    "name": "Kabupaten Aceh Tamiang",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "2f3a57ad-d4cc-4907-a3f5-8d25c7ce77b0",
+    "name": "Kabupaten Aceh Tengah",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "4b3ab182-a684-4a8f-a8d9-45c24f408a56",
+    "name": "Kabupaten Aceh Tenggara",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "8af947fc-9577-4856-99da-ded13fa332ba",
+    "name": "Kabupaten Aceh Timur",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9cba08ed-e272-4f49-9a8c-2d7ef03a2646",
+    "name": "Kabupaten Aceh Utara",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9830e354-1525-41df-aa62-284597a11aeb",
+    "name": "Kabupaten Bener Meriah",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "25d247ef-5f36-4e2f-9a32-8455451e053b",
+    "name": "Kabupaten Bireuen",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "6f7f8af8-8262-4165-b03e-9b9b3dd076c3",
+    "name": "Kabupaten Gayo Lues",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "586f63b3-55cc-4db6-8d44-d1fed0419900",
+    "name": "Kabupaten Nagan Raya",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e7333baa-9f96-47a5-aa52-ca668cd5e5cf",
+    "name": "Kabupaten Pidie",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "cc1e4360-b9be-4ad2-bb80-8ed354cb87b0",
+    "name": "Kabupaten Pidie Jaya",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "08da6d1a-32de-495a-9493-b70a35470c8c",
+    "name": "Kabupaten Simeulue",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "5ccb0984-199d-4b0f-ab58-4e1b16a3ba41",
+    "name": "Kota Banda Aceh",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "7af30dc6-60ca-450e-ab73-9912fdbdce71",
+    "name": "Kota Langsa",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "ba4a022a-f409-4e3a-aa7d-db920693bb38",
+    "name": "Kota Lhokseumawe",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "27c10a51-c953-43b9-9090-5280c8953226",
+    "name": "Kota Sabang",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9ab2cbb1-b2bf-4b81-95f1-efc97e5a22b3",
+    "name": "Kota Subulussalam",
+    "province": "Aceh",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "fb3e316d-9d8e-45e8-9e9c-ee97a1508eb8",
+    "name": "Kabupaten Asahan",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "1869f1c2-a82e-4b86-bca2-1f1188e59d98",
+    "name": "Kabupaten Batubara",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "b9cc50d5-5826-4135-a65a-8a30e01d41f2",
+    "name": "Kabupaten Dairi",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "c663ca61-40ce-40a6-8b3b-14d4d12b9d3f",
+    "name": "Kabupaten Deli Serdang",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9cef8cdd-33ce-4f7e-b005-cda761c4415a",
+    "name": "Kabupaten Humbang Hasundutan",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "8fbb4e00-fb71-43cf-8a07-e803fead3dc3",
+    "name": "Kabupaten Karo",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "7ce43656-572c-4655-ba01-6c8fedfbf6c0",
+    "name": "Kabupaten Labuhanbatu",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "5c184df8-a32c-48ab-907d-ee360dad517c",
+    "name": "Kabupaten Labuhanbatu Selatan",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "eeb930e0-cd0e-4e63-9607-3c441dbf35f7",
+    "name": "Kabupaten Labuhanbatu Utara",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "1fe56f85-b688-4163-9bba-9504a900caef",
+    "name": "Kabupaten Langkat",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "0620a171-1489-43ab-b05b-040d56028405",
+    "name": "Kabupaten Mandailing Natal",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "b216c02c-3542-4072-9b1c-acde4df787a2",
+    "name": "Kabupaten Nias",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "d0d73958-e36d-4a2c-a21e-58a5a999b3d6",
+    "name": "Kabupaten Nias Barat",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "a2d945ce-53cb-4bf9-b83d-9ff21f22b5f9",
+    "name": "Kabupaten Nias Selatan",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "c178c8cc-ce2e-4412-8a65-a62da50c0373",
+    "name": "Kabupaten Nias Utara",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "ffd3931e-86fd-4c71-86c7-bf2f3596bb3a",
+    "name": "Kabupaten Padang Lawas",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "4e61dbe0-de74-4820-87af-85be35acb4c7",
+    "name": "Kabupaten Padang Lawas Utara",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "bf71fa32-42de-4747-bf6a-8eea1703e08c",
+    "name": "Kabupaten Pakpak Bharat",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "959804dc-4c4e-472d-b23a-1c9bd28bd317",
+    "name": "Kabupaten Samosir",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "bc96a9bc-22f0-4dd5-83c6-0cf1fca2d1ac",
+    "name": "Kabupaten Serdang Bedagai",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "cf500a6f-82ab-47f5-bcf8-e2cc2a70d757",
+    "name": "Kabupaten Simalungun",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "ee8d0315-4e7d-49ca-8489-d2fcd4ea5ca4",
+    "name": "Kabupaten Tapanuli Selatan",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "6792e94c-69e9-4538-b135-5228d95e4dfd",
+    "name": "Kabupaten Tapanuli Tengah",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "f494fb32-0131-4766-9667-f8425943c21c",
+    "name": "Kabupaten Tapanuli Utara",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "5e7c84a1-5c78-42ba-b627-0e8e484ff9aa",
+    "name": "Kabupaten Toba Samosir",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "924ac930-d521-435b-a739-9d5973105253",
+    "name": "Kota Binjai",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "8a449eea-1739-4d46-8b0a-5c539ccb0b8a",
+    "name": "Kota Gunungsitoli",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "4d6b354d-8f35-4578-8834-eac67636d580",
+    "name": "Kota Medan",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e9379dab-8e26-41ea-b09f-6109a49c8264",
+    "name": "Kota Padangsidempuan",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "726cdd5f-b82c-47a0-93f1-15faba752405",
+    "name": "Kota Pematangsiantar",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "016bbe38-0a10-44d7-8267-2f8486f2e93d",
+    "name": "Kota Sibolga",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "649f37d0-41ca-4d84-83ab-0f75d38ecf27",
+    "name": "Kota Tanjungbalai",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "8e5b118f-f650-4dd5-8653-a6f3ca649bc1",
+    "name": "Kota Tebing Tinggi",
+    "province": "Sumatera Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "5baca957-2444-4881-b558-9819e6662abb",
+    "name": "Kabupaten Agam",
+    "province": "Sumatera Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "7f1a32e8-e151-4530-939b-3c8885d7f779",
+    "name": "Kabupaten Dharmasraya",
+    "province": "Sumatera Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "303a6fad-f6be-4bac-bc01-b0a656d9aaee",
+    "name": "Kabupaten Kepulauan Mentawai",
+    "province": "Sumatera Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "2ba1c6f3-a20a-4e29-8564-249da45426ca",
+    "name": "Kabupaten Lima Puluh Kota",
+    "province": "Sumatera Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "789d7e76-5636-4ad6-a212-b9e297de8b60",
+    "name": "Kabupaten Padang Pariaman",
+    "province": "Sumatera Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "1828ccf7-200c-4a55-94c7-0ec619292c56",
+    "name": "Kabupaten Pasaman",
+    "province": "Sumatera Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "8acce370-7efc-4980-b627-855fe8039672",
+    "name": "Kabupaten Pasaman Barat",
+    "province": "Sumatera Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "44fc867c-80fe-4f5f-b647-1b146edab386",
+    "name": "Kabupaten Pesisir Selatan",
+    "province": "Sumatera Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "7148c96e-ea52-418c-bf77-4f48533c027f",
+    "name": "Kabupaten Sijunjung",
+    "province": "Sumatera Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "a85d2c3a-5ec6-4999-9a0f-40736a95eb29",
+    "name": "Kabupaten Solok",
+    "province": "Sumatera Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "2351223a-d394-414e-b462-08665c5321c1",
+    "name": "Kabupaten Solok Selatan",
+    "province": "Sumatera Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9a9f51cb-2760-4a33-89ca-da359ed625db",
+    "name": "Kabupaten Tanah Datar",
+    "province": "Sumatera Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "be4d8229-240e-4217-a9c6-6b494b3c226a",
+    "name": "Kota Bukittinggi",
+    "province": "Sumatera Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "12afcbf5-6b2e-4dee-820a-50ee93172da9",
+    "name": "Kota Padang",
+    "province": "Sumatera Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "fc09f1ed-453f-4b97-b3b9-b0ea996ad5a6",
+    "name": "Kota Padangpanjang",
+    "province": "Sumatera Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "5bff5a66-e6b6-4772-98ae-562ccdc9f1b5",
+    "name": "Kota Pariaman",
+    "province": "Sumatera Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "1bf599ba-51fa-4dee-9d1c-e584e077becf",
+    "name": "Kota Payakumbuh",
+    "province": "Sumatera Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "13169ace-5805-43c8-9941-7c148c69243d",
+    "name": "Kota Sawahlunto",
+    "province": "Sumatera Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "0bc74fbb-2711-4f6b-955c-3b1f83a00485",
+    "name": "Kota Solok",
+    "province": "Sumatera Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "dfdf923d-a85a-479c-8230-c94f99868513",
+    "name": "Kabupaten Banyuasin",
+    "province": "Sumatera Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e22f6bde-510f-459e-8fe0-ca8e387f8652",
+    "name": "Kabupaten Empat Lawang",
+    "province": "Sumatera Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e20d2257-2c5e-4fea-ab02-2d0e4d8fde92",
+    "name": "Kabupaten Lahat",
+    "province": "Sumatera Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "edb96982-518b-48dd-8db1-6f973fe1e472",
+    "name": "Kabupaten Muara Enim",
+    "province": "Sumatera Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "67e283d3-c851-493e-818f-2c0404bed6a8",
+    "name": "Kabupaten Musi Banyuasin",
+    "province": "Sumatera Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "5579ad3d-b97b-49a8-b7a5-68bc9d5f6fdc",
+    "name": "Kabupaten Musi Rawas",
+    "province": "Sumatera Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "8c656675-2757-4e2c-8bc2-ab888514f92d",
+    "name": "Kabupaten Musi Rawas Utara",
+    "province": "Sumatera Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "d879387f-0739-40f1-a8ce-e169887a4b4d",
+    "name": "Kabupaten Ogan Ilir",
+    "province": "Sumatera Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "8934032a-f92c-4c98-ae94-39c559ec381b",
+    "name": "Kabupaten Ogan Komering Ilir",
+    "province": "Sumatera Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "40104f0b-fd8a-47d9-9b01-25766c057749",
+    "name": "Kabupaten Ogan Komering Ulu",
+    "province": "Sumatera Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "57762181-0f2d-414a-99ae-8f9e445e75a9",
+    "name": "Kabupaten Ogan Komering Ulu Selatan",
+    "province": "Sumatera Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "aaa36efd-7d7b-4ce9-bee9-e9c951bed5aa",
+    "name": "Kabupaten Ogan Komering Ulu Timur",
+    "province": "Sumatera Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "a7247d10-09a6-42f3-bfb0-e87a291f0de7",
+    "name": "Kabupaten Penukal Abab Lematang Ilir",
+    "province": "Sumatera Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "59326ae8-95bb-4d1e-a12d-a5aefcb23e1c",
+    "name": "Kota Lubuklinggau",
+    "province": "Sumatera Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "688271a6-976f-4d61-b9f1-c2307d9c7b12",
+    "name": "Kota Pagar Alam",
+    "province": "Sumatera Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "24168d33-1079-41d9-92da-88696637b0a2",
+    "name": "Kota Palembang",
+    "province": "Sumatera Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "02f399fc-1f27-46a2-8774-10cb029c060f",
+    "name": "Kota Prabumulih",
+    "province": "Sumatera Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "5fcfdfed-e052-494d-a7dd-d5304ff58c7b",
+    "name": "Kabupaten Bengkalis",
+    "province": "Riau",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "7c55d4c7-f4a4-46a2-b5f8-266795f82a91",
+    "name": "Kabupaten Indragiri Hilir",
+    "province": "Riau",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "404fee94-0fae-4959-8f58-ed15315f3e9f",
+    "name": "Kabupaten Indragiri Hulu",
+    "province": "Riau",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "463192f9-2037-4f1d-a4c5-3355fb733faf",
+    "name": "Kabupaten Kampar",
+    "province": "Riau",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "2fa6bf4f-0a77-4a10-8dcc-e2c66df574f2",
+    "name": "Kabupaten Kepulauan Meranti",
+    "province": "Riau",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "17b581ea-9f90-456f-9d2b-00ee1f3ee294",
+    "name": "Kabupaten Kuantan Singingi",
+    "province": "Riau",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "b257ed18-b21b-4d9b-a1dd-8a5170479d42",
+    "name": "Kabupaten Pelalawan",
+    "province": "Riau",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "49b9ee53-636a-4dcf-97eb-6dd56930790f",
+    "name": "Kabupaten Rokan Hilir",
+    "province": "Riau",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "94ae6d0e-9e88-479d-81db-8d652b784868",
+    "name": "Kabupaten Rokan Hulu",
+    "province": "Riau",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "8e1b1688-9811-43d1-891c-f15940147d81",
+    "name": "Kabupaten Siak",
+    "province": "Riau",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "feecfc12-2463-4295-8e3b-5c6cda24d93f",
+    "name": "Kota Dumai",
+    "province": "Riau",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "285a08e7-143d-4da9-a963-9962cd987841",
+    "name": "Kota Pekanbaru",
+    "province": "Riau",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "aa8df9f5-4ebb-4e2e-81cc-04888ec8d092",
+    "name": "Kabupaten Bintan",
+    "province": "Kepulauan Riau",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "7ec38d33-3952-4149-8972-d57f6467cdf9",
+    "name": "Kabupaten Karimun",
+    "province": "Kepulauan Riau",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "3d12b1b3-b450-44cd-a37b-9a7088691d0d",
+    "name": "Kabupaten Kepulauan Anambas",
+    "province": "Kepulauan Riau",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "7f8e4995-a3c5-41b4-95d2-f78808f7dd27",
+    "name": "Kabupaten Lingga",
+    "province": "Kepulauan Riau",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e5627e06-3699-47fa-a736-e4006b30aac6",
+    "name": "Kabupaten Natuna",
+    "province": "Kepulauan Riau",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "b5519d8a-d096-4b71-805d-3d989236f725",
+    "name": "Kota Batam",
+    "province": "Kepulauan Riau",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "109c52a3-d9b5-4ca1-82a8-aa3a753d8485",
+    "name": "Kota Tanjung Pinang",
+    "province": "Kepulauan Riau",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "ac552dbb-9930-4b79-8ecb-0f03090a7482",
+    "name": "Kabupaten Batanghari",
+    "province": "Jambi",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "b001007e-bc29-42e7-b1fb-4d89fbb7c6a5",
+    "name": "Kabupaten Bungo",
+    "province": "Jambi",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e0596658-5217-4d1f-8d8b-748bd2683731",
+    "name": "Kabupaten Kerinci",
+    "province": "Jambi",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "1d6c7397-e8a9-4d61-9c7f-71b3ca55110b",
+    "name": "Kabupaten Merangin",
+    "province": "Jambi",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "576780bc-3863-43e1-a3d4-463f91082073",
+    "name": "Kabupaten Muaro Jambi",
+    "province": "Jambi",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "6adaccb9-dccf-47fd-b3ef-7c6f8fc39b59",
+    "name": "Kabupaten Sarolangun",
+    "province": "Jambi",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "5c9ccc39-6621-4cbc-a385-199c0d651a75",
+    "name": "Kabupaten Tanjung Jabung Barat",
+    "province": "Jambi",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "f97aeebe-e47f-4697-a25f-0057298371d7",
+    "name": "Kabupaten Tanjung Jabung Timur",
+    "province": "Jambi",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e72c84e9-bee4-44a6-8f39-724e8005be2c",
+    "name": "Kabupaten Tebo",
+    "province": "Jambi",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "66903106-0b61-4e15-b96e-feda747169f0",
+    "name": "Kota Jambi",
+    "province": "Jambi",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e422b10b-bb80-44d7-8ea4-077a07169bda",
+    "name": "Kota Sungai Penuh",
+    "province": "Jambi",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "326ae576-c3cc-4831-964b-221d98a1e173",
+    "name": "Kabupaten Bengkulu Selatan",
+    "province": "Bengkulu",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "830dda34-eacb-45ad-a923-1964084b9111",
+    "name": "Kabupaten Bengkulu Tengah",
+    "province": "Bengkulu",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "28af6f63-7714-4b2b-87b6-0020a717c2cb",
+    "name": "Kabupaten Bengkulu Utara",
+    "province": "Bengkulu",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "7f1bfb9b-d896-4114-8215-ff9e9b80894a",
+    "name": "Kabupaten Kaur",
+    "province": "Bengkulu",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "d955d802-1884-4d9a-aebe-bf1f6b9cccc2",
+    "name": "Kabupaten Kepahiang",
+    "province": "Bengkulu",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "33c0e27d-d44a-4cb1-85a8-8897e32fddb4",
+    "name": "Kabupaten Lebong",
+    "province": "Bengkulu",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "13504e6b-20e2-4261-bff6-d16d33a3f3e2",
+    "name": "Kabupaten Mukomuko",
+    "province": "Bengkulu",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "294f7446-fa70-4dcc-8979-a24893ffabc5",
+    "name": "Kabupaten Rejang Lebong",
+    "province": "Bengkulu",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "fd6e9356-db12-4e3a-ab71-c16efd96043c",
+    "name": "Kabupaten Seluma",
+    "province": "Bengkulu",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "8e3e4c3d-5df5-41fa-b05d-23dd5d740d22",
+    "name": "Kota Bengkulu",
+    "province": "Bengkulu",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "722d319c-96a2-4bd4-8bed-a544b42a076e",
+    "name": "Kabupaten Bangka",
+    "province": "Kepulauan Bangka Belitung",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "16923190-4d3a-4c61-a80e-bebf40058dc7",
+    "name": "Kabupaten Bangka Barat",
+    "province": "Kepulauan Bangka Belitung",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "a10648ca-d598-44b8-a93c-eae1c78609ee",
+    "name": "Kabupaten Bangka Selatan",
+    "province": "Kepulauan Bangka Belitung",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "216b0c4f-0034-4750-a11b-931ce2bd115b",
+    "name": "Kabupaten Bangka Tengah",
+    "province": "Kepulauan Bangka Belitung",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "83418702-4389-4c98-bf38-d634d18014fb",
+    "name": "Kabupaten Belitung",
+    "province": "Kepulauan Bangka Belitung",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "30c080e3-c3ee-46a8-9a73-f9d5d67d729c",
+    "name": "Kabupaten Belitung Timur",
+    "province": "Kepulauan Bangka Belitung",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "324de154-7db6-4ff2-a5ed-6d74165fb20d",
+    "name": "Kota Pangkal Pinang",
+    "province": "Kepulauan Bangka Belitung",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "d141a15f-67dd-4c25-8103-48aad468c497",
+    "name": "Kabupaten Lampung Tengah",
+    "province": "Lampung",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "4d3fd648-442a-40ff-9eec-3e4103369b63",
+    "name": "Kabupaten Lampung Utara",
+    "province": "Lampung",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "2dcccf9a-27f5-403b-9171-193936d08d11",
+    "name": "Kabupaten Lampung Selatan",
+    "province": "Lampung",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "253c23bb-0416-4ea5-a244-3bf1913df344",
+    "name": "Kabupaten Lampung Barat",
+    "province": "Lampung",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "d26f1324-0ba5-463b-a025-533069c8a1c3",
+    "name": "Kabupaten Lampung Timur",
+    "province": "Lampung",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "8d0edf46-057d-4d13-9a0f-7cb519a80431",
+    "name": "Kabupaten Mesuji",
+    "province": "Lampung",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "39dbb6e8-ca36-46d2-80d0-d7184362648c",
+    "name": "Kabupaten Pesawaran",
+    "province": "Lampung",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "715e4092-e390-4de9-bf17-bb26f1e505ff",
+    "name": "Kabupaten Pesisir Barat",
+    "province": "Lampung",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "c578c033-9cc7-41fe-9e6c-288315ed54d3",
+    "name": "Kabupaten Pringsewu",
+    "province": "Lampung",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "504eaa62-0cf7-4c13-aed1-51e8d11970b0",
+    "name": "Kabupaten Tulang Bawang",
+    "province": "Lampung",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "a25784e1-9a01-4a45-8582-1de2bc54ff03",
+    "name": "Kabupaten Tulang Bawang Barat",
+    "province": "Lampung",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "11c3a59a-fba1-43e7-afeb-2cd95015d233",
+    "name": "Kabupaten Tanggamus",
+    "province": "Lampung",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "c22da53c-6d2f-4fb8-84a4-55b6f69d26ff",
+    "name": "Kabupaten Way Kanan",
+    "province": "Lampung",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "c0f37269-7ae2-4ae2-bad3-a31c0e73e323",
+    "name": "Kota Bandar Lampung",
+    "province": "Lampung",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "2e72ac6b-6162-45d2-af2a-7f45f6f3a843",
+    "name": "Kota Metro",
+    "province": "Lampung",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "49d31473-954e-4634-af7a-fa14af24ca91",
+    "name": "Kabupaten Lebak",
+    "province": "Banten",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "545a0b7a-cb12-4c2d-b62a-43c3e1d54ee3",
+    "name": "Kabupaten Pandeglang",
+    "province": "Banten",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "f66e44ec-455a-43f7-823b-0bb60cc8a1ae",
+    "name": "Kabupaten Serang",
+    "province": "Banten",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "a61485fb-0694-4e05-86dc-a8a793561525",
+    "name": "Kabupaten Tangerang",
+    "province": "Banten",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "f2b26f07-a708-49b5-b83c-fcdc72dd38f9",
+    "name": "Kota Cilegon",
+    "province": "Banten",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "49cdc3a5-cf10-420e-b60e-34c44e059018",
+    "name": "Kota Serang",
+    "province": "Banten",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "5fba2b2e-d40d-47fe-b926-085c67fbcc21",
+    "name": "Kota Tangerang",
+    "province": "Banten",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "6aa4ad34-4610-4323-bd8f-850301211eae",
+    "name": "Kota Tangerang Selatan",
+    "province": "Banten",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "8b3d263f-fb1f-49b1-972c-8c7ea721cfdf",
+    "name": "Kota Administrasi Jakarta Barat",
+    "province": "DKI Jakarta",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "4e38d1f5-bfb2-462c-951a-27e8a7aa4ee1",
+    "name": "Kota Administrasi Jakarta Pusat",
+    "province": "DKI Jakarta",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "297128ee-47b2-4921-890a-48a04c3598f0",
+    "name": "Kota Administrasi Jakarta Selatan",
+    "province": "DKI Jakarta",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "04d00c78-6f12-4551-a418-28876413a85f",
+    "name": "Kota Administrasi Jakarta Timur",
+    "province": "DKI Jakarta",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "1bd5066b-db11-4b4f-9b22-85a2e72cc37c",
+    "name": "Kota Administrasi Jakarta Utara",
+    "province": "DKI Jakarta",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "5f276ef2-e4f4-490e-b7f3-056eaa756f0b",
+    "name": "Kabupaten Administrasi Kepulauan Seribu",
+    "province": "DKI Jakarta",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "6f4d1cce-b860-4cbf-8eab-f2a06c380299",
+    "name": "Kabupaten Bandung",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "ee63e7d0-3fa4-48af-9146-85978e0652b5",
+    "name": "Kabupaten Bandung Barat",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "b76a3ba2-b555-4007-994a-f635d7eaeb26",
+    "name": "Kabupaten Bekasi",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "f602278c-3de5-41ab-ac1f-8c70c653b82f",
+    "name": "Kabupaten Bogor",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "03927657-41ef-4498-9b6d-c1ca7f6bda89",
+    "name": "Kabupaten Ciamis",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "52b25a6c-e485-4cec-b617-21bbcb95c306",
+    "name": "Kabupaten Cianjur",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "54870c6f-3d4e-4916-aa6a-155b4def79bf",
+    "name": "Kabupaten Cirebon",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "ae8f00b3-0827-4ac6-8c54-e83574c8c932",
+    "name": "Kabupaten Garut",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "7b9e7d4d-a1a2-4fac-8e36-4e0de2b0ee04",
+    "name": "Kabupaten Indramayu",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "a9c7c9ea-71a7-4cf3-ba18-2cc138febeb8",
+    "name": "Kabupaten Karawang",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "35dd43dd-d701-4701-bbf3-12d2d647cd70",
+    "name": "Kabupaten Kuningan",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "3be78232-0f61-445f-8eb1-12a6e6ddbfa2",
+    "name": "Kabupaten Majalengka",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "32412178-7667-4dde-b019-e109a0b0c995",
+    "name": "Kabupaten Pangandaran",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "319e37b2-5dd6-444a-8368-144e0d18a9a2",
+    "name": "Kabupaten Purwakarta",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "824d4529-0cf1-45b1-bcf4-421c0b413aa5",
+    "name": "Kabupaten Subang",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "6311eaf4-8213-43db-a788-9c747cd95045",
+    "name": "Kabupaten Sukabumi",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "00d3ef02-824a-4ff4-94c9-d0d087ec447c",
+    "name": "Kabupaten Sumedang",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "c9f7cf44-ad1b-453f-8d8c-4404c243906d",
+    "name": "Kabupaten Tasikmalaya",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e475757e-e1ab-466c-8d77-027ad2a0eb50",
+    "name": "Kota Bandung",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "0b7bb0cd-f10e-45be-92c8-3a78d214f4cd",
+    "name": "Kota Banjar",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9b2c3a46-c7ce-4d87-9f72-6244775c2997",
+    "name": "Kota Bekasi",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "13e07416-79bd-4531-a48d-a51dbc196358",
+    "name": "Kota Bogor",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "174cf592-1d31-4eea-bd92-ecacc10346df",
+    "name": "Kota Cimahi",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "167bdb39-df2b-4ec2-9e79-56aa29bc10b2",
+    "name": "Kota Cirebon",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "43b941e0-77b0-4363-a7bc-5aa622804407",
+    "name": "Kota Depok",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "a6bbf0db-e13c-4ef3-9958-c0cf011108f4",
+    "name": "Kota Sukabumi",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "56bda740-e627-4e23-ab58-55c4dad1626a",
+    "name": "Kota Tasikmalaya",
+    "province": "Jawa Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "4698ff53-0b2c-4742-91cc-74d0d0c4f764",
+    "name": "Kabupaten Banjarnegara",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "87c22cde-81db-43a9-a4c3-f7ed3779dd29",
+    "name": "Kabupaten Banyumas",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "3fab246e-c0b5-47c8-8483-ce8ab7540d3b",
+    "name": "Kabupaten Batang",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "818e336b-7475-4cb6-b012-78a37839bfc9",
+    "name": "Kabupaten Blora",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9df4fd7f-8a8a-4ebd-a8eb-40355cb56060",
+    "name": "Kabupaten Boyolali",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "4a7e59c3-9291-46d0-8ea7-ad047792cbd7",
+    "name": "Kabupaten Brebes",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "30cdd3e8-1db4-4779-9741-e24016c2e411",
+    "name": "Kabupaten Cilacap",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "d104e1f9-2d49-43ab-bb63-b88c9d5715bd",
+    "name": "Kabupaten Demak",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "34d77c35-fc3d-42cb-ac62-ce116cb0892a",
+    "name": "Kabupaten Grobogan",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "bb715bc4-5c6e-4843-a3c8-b6e7d2637dbf",
+    "name": "Kabupaten Jepara",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "b6a7dedd-bb11-4fef-8128-a04bedbb9f69",
+    "name": "Kabupaten Karanganyar",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "b05afa96-b1bd-47e5-a4f6-1d784c00948b",
+    "name": "Kabupaten Kebumen",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9def4fed-4b4a-4f77-bdf2-02bc7f8e5361",
+    "name": "Kabupaten Kendal",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "4674a790-b353-49de-83b0-7730e0598b13",
+    "name": "Kabupaten Klaten",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "6f37e355-569b-430c-be3f-728bb0067e2e",
+    "name": "Kabupaten Kudus",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "84de332a-9d77-48e9-a7e7-9c5493751a64",
+    "name": "Kabupaten Magelang",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "90dc1b3d-62d3-4a36-909d-a807d95c4637",
+    "name": "Kabupaten Pati",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "fe0d9c38-6c05-4f9d-b396-9e13d8131d4a",
+    "name": "Kabupaten Pekalongan",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "c2a4694f-8f87-4220-8d40-1997771975d1",
+    "name": "Kabupaten Pemalang",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "84438288-e126-4819-bfbe-a222929d5dd3",
+    "name": "Kabupaten Purbalingga",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "de528753-60a7-4550-a304-acb3be0b5690",
+    "name": "Kabupaten Purworejo",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "d9d51721-04a4-40f0-9e9c-2282889b571d",
+    "name": "Kabupaten Rembang",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "29750cef-b77c-4136-9621-ad1cca3e8df1",
+    "name": "Kabupaten Semarang",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "1b94835c-d0b8-4780-acc0-f9ffa45dd26a",
+    "name": "Kabupaten Sragen",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "1e472f9c-0caf-4970-b0da-f914f478e188",
+    "name": "Kabupaten Sukoharjo",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "fd28ac3a-8c81-4ca5-a4e9-e8f9e177ab02",
+    "name": "Kabupaten Tegal",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e4d28955-f303-427b-926b-02d72a2c9f6c",
+    "name": "Kabupaten Temanggung",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "3138b8c4-b74d-44fd-aba2-7090f0dcd438",
+    "name": "Kabupaten Wonogiri",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "11519c17-f41b-44d5-99ae-e5ebb450f3b1",
+    "name": "Kabupaten Wonosobo",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "8132aa07-d79d-4a91-a84b-9dd39fa017d6",
+    "name": "Kota Magelang",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "bebba4f3-82f1-4d8b-9060-5c2fbcf3b7d4",
+    "name": "Kota Pekalongan",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "cd28abe2-41e3-48c0-91f2-855a3ed11b37",
+    "name": "Kota Salatiga",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "77044445-07f7-4e74-b998-833c33f49236",
+    "name": "Kota Semarang",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9f2651f7-3420-43f2-8983-e6974bafcb8c",
+    "name": "Kota Surakarta",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e99f6864-df4b-49bb-a8ac-22d1627bedfb",
+    "name": "Kota Tegal",
+    "province": "Jawa Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "bfe2a89d-62c9-4670-9901-2c66e2d17a87",
+    "name": "Kabupaten Bangkalan",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "dd5e6a59-a70a-4029-a312-c7450d66d9e0",
+    "name": "Kabupaten Banyuwangi",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "2d74c0b4-2413-4e8d-9810-47aae23455a7",
+    "name": "Kabupaten Blitar",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "861706e4-d410-463f-b58c-4414488bb860",
+    "name": "Kabupaten Bojonegoro",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "4e3d3d9e-3cbf-4c32-a2d4-bae7206fba52",
+    "name": "Kabupaten Bondowoso",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "b82ef626-b5d1-471b-be7a-65a393bb3ab9",
+    "name": "Kabupaten Gresik",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "a0c29c94-6887-4760-b069-0156105f411d",
+    "name": "Kabupaten Jember",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "056853fb-7fa8-4bac-818f-021309697a79",
+    "name": "Kabupaten Jombang",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "b2b2ae2f-f1ac-4f7d-a48b-266e0ae5af7e",
+    "name": "Kabupaten Kediri",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "c5be574d-85fe-43d1-8065-3468856511ac",
+    "name": "Kabupaten Lamongan",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "b72edcf9-61ad-4edb-b8d4-334d338f9fd8",
+    "name": "Kabupaten Lumajang",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9f74877b-7e3c-49da-a4ef-c3e1db5bdde9",
+    "name": "Kabupaten Madiun",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "6455f5b0-7409-4cb5-b0cd-c59bf5b63032",
+    "name": "Kabupaten Magetan",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "581f4259-4855-4803-9e5c-ba4a3b6d4965",
+    "name": "Kabupaten Malang",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "add26921-5525-4a29-a9f5-95b4299a7970",
+    "name": "Kabupaten Mojokerto",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "155e11f9-f191-4878-902f-c5956dec8139",
+    "name": "Kabupaten Nganjuk",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "25929436-ac41-43ad-82dc-10f5fb30ad7f",
+    "name": "Kabupaten Ngawi",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "34f0cc73-366e-4ce3-a18f-8fa6e929e09a",
+    "name": "Kabupaten Pacitan",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9cd3312b-6d7e-43cc-b388-af6350016f46",
+    "name": "Kabupaten Pamekasan",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "c58a7d5d-3c25-4913-b5e8-65a5681aaee7",
+    "name": "Kabupaten Pasuruan",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "17712fdb-8f87-493f-bc5f-ac67fc6408e5",
+    "name": "Kabupaten Ponorogo",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9d07e78b-c52d-4e93-908d-c488cf8af29d",
+    "name": "Kabupaten Probolinggo",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "79b3fa22-2dbe-4e38-934e-4c1e73e6a49a",
+    "name": "Kabupaten Sampang",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "5f9bf6e9-96ed-4446-925f-7cfbc02840ef",
+    "name": "Kabupaten Sidoarjo",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "6f1afb5c-d963-4bbe-8a94-4a2a8b769ff9",
+    "name": "Kabupaten Situbondo",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "cad8cde0-aaa8-4997-a6e2-10639a7561b6",
+    "name": "Kabupaten Sumenep",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "69da7631-c275-4e8e-b287-1185d5a81761",
+    "name": "Kabupaten Trenggalek",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "fb836815-6f11-472d-a216-7a7ca4c4c511",
+    "name": "Kabupaten Tuban",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "028a6319-8f1c-44fa-a866-ad6e3b5d6e88",
+    "name": "Kabupaten Tulungagung",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "f35f05df-e504-46ff-ad92-c11b911faf1a",
+    "name": "Kota Batu",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "71cdbc28-eed4-43bc-b241-fd290c18576d",
+    "name": "Kota Blitar",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "df19c87c-07b2-4e7e-8b5d-e91ee7e9a0a5",
+    "name": "Kota Kediri",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "6425fbcd-efa5-4950-8b24-46e90e3aff09",
+    "name": "Kota Madiun",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "58fd7d54-ad02-4c71-a47a-8a734d8bdb38",
+    "name": "Kota Malang",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "af1a6900-6a51-461e-b1bb-df56304b0e15",
+    "name": "Kota Mojokerto",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "d366aa95-0985-4893-b4bc-82642f688979",
+    "name": "Kota Pasuruan",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9c4ac594-e232-4ac9-b16f-e1d716a0e944",
+    "name": "Kota Probolinggo",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9d597ff0-e872-41dc-a5b0-ac47126eb307",
+    "name": "Kota Surabaya",
+    "province": "Jawa Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "3da98f83-ce3d-45a6-a532-db2dc8327c86",
+    "name": "Kabupaten Bantul",
+    "province": "Daerah Istimewa Yogyakarta",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "d218b1a0-c615-4294-a0fa-8ff2efe17c7e",
+    "name": "Kabupaten Gunungkidul",
+    "province": "Daerah Istimewa Yogyakarta",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "6f39dccc-8dae-44ba-aa03-7c5e801ac97e",
+    "name": "Kabupaten Kulon Progo",
+    "province": "Daerah Istimewa Yogyakarta",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "72009ec4-964c-46f4-8e75-99ceade1154e",
+    "name": "Kabupaten Sleman",
+    "province": "Daerah Istimewa Yogyakarta",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "60933992-8b41-4c04-846f-b834ebd89dfa",
+    "name": "Kota Yogyakarta",
+    "province": "Daerah Istimewa Yogyakarta",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "10cffc3f-4395-468e-b534-e717ed58ccf3",
+    "name": "Kabupaten Badung",
+    "province": "Bali",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "6526ab84-4c14-46dd-bcbb-025e3257a339",
+    "name": "Kabupaten Bangli",
+    "province": "Bali",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "b3bac768-5f43-4c62-8788-6a4bad51c019",
+    "name": "Kabupaten Buleleng",
+    "province": "Bali",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "8ebd9ad4-284d-414b-8a7d-2a09089036e2",
+    "name": "Kabupaten Gianyar",
+    "province": "Bali",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "7929e514-55fc-45c3-9c90-ca4ac42b6b9a",
+    "name": "Kabupaten Jembrana",
+    "province": "Bali",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "fd7578a1-2895-4502-8dc1-f516f8d6e61d",
+    "name": "Kabupaten Karangasem",
+    "province": "Bali",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "0471302c-51cf-4828-9c8a-c7135666618b",
+    "name": "Kabupaten Klungkung",
+    "province": "Bali",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "018be03c-8d09-457a-b661-924a2b7c5c3f",
+    "name": "Kabupaten Tabanan",
+    "province": "Bali",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "1b9ab74f-c9cf-43be-aa94-cdc84bd83b26",
+    "name": "Kota Denpasar",
+    "province": "Bali",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "ea5deb70-5d54-45c4-b643-320940523848",
+    "name": "Kabupaten Bima",
+    "province": "Nusa Tenggara Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "04de30b0-c6af-44c5-82cb-49e7087942e0",
+    "name": "Kabupaten Dompu",
+    "province": "Nusa Tenggara Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "8237e509-ed11-4f4e-a466-112b1936813f",
+    "name": "Kabupaten Lombok Barat",
+    "province": "Nusa Tenggara Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "cccf73f8-4847-4ffd-b780-da59165eeba9",
+    "name": "Kabupaten Lombok Tengah",
+    "province": "Nusa Tenggara Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "da20fbb3-ac7f-4b83-a3b2-d71cfed37b53",
+    "name": "Kabupaten Lombok Timur",
+    "province": "Nusa Tenggara Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "a6ebb538-aabd-4e77-bc1a-c613b01fb317",
+    "name": "Kabupaten Lombok Utara",
+    "province": "Nusa Tenggara Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "39a92344-d06c-417a-bba5-64c6e8158c7c",
+    "name": "Kabupaten Sumbawa",
+    "province": "Nusa Tenggara Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "a52564d6-2f1e-48f3-99da-9ad4b68a84fc",
+    "name": "Kabupaten Sumbawa Barat",
+    "province": "Nusa Tenggara Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e26c30a0-37d1-450c-9cb3-5f2c3ba25064",
+    "name": "Kota Bima",
+    "province": "Nusa Tenggara Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "65bdb4a4-6549-42cf-8a3b-3794fb37fb38",
+    "name": "Kota Mataram",
+    "province": "Nusa Tenggara Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "13b68a88-45c1-4889-aeb7-56d6f2a88bd3",
+    "name": "Kabupaten Alor",
+    "province": "Nusa Tenggara Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e1284142-5380-42d7-aa65-f203d0b45c16",
+    "name": "Kabupaten Belu",
+    "province": "Nusa Tenggara Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "63dbcf61-e9d3-44fa-abba-9248ba161f3f",
+    "name": "Kabupaten Ende",
+    "province": "Nusa Tenggara Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "0bf139e5-fe72-45f3-adcf-637f4d8b89a4",
+    "name": "Kabupaten Flores Timur",
+    "province": "Nusa Tenggara Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "164321a9-562a-4143-a3e2-cccff4d84f03",
+    "name": "Kabupaten Kupang",
+    "province": "Nusa Tenggara Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "787538fc-62c8-49f7-8e17-2d81dbd582ed",
+    "name": "Kabupaten Lembata",
+    "province": "Nusa Tenggara Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "5271fde7-babc-4c3b-9851-b2a7f8aa89b7",
+    "name": "Kabupaten Malaka",
+    "province": "Nusa Tenggara Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "b45aaaf2-197d-49fa-8423-b11ae42eaa48",
+    "name": "Kabupaten Manggarai",
+    "province": "Nusa Tenggara Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "33e74c9e-2422-434a-b547-acfa4eca2606",
+    "name": "Kabupaten Manggarai Barat",
+    "province": "Nusa Tenggara Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "f52814a3-a020-4a5d-872d-20df864412e0",
+    "name": "Kabupaten Manggarai Timur",
+    "province": "Nusa Tenggara Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9d845f18-f69b-4590-a555-afd6525ba230",
+    "name": "Kabupaten Ngada",
+    "province": "Nusa Tenggara Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "ca049a7f-9dd8-4dc5-bc3b-1cd817973437",
+    "name": "Kabupaten Nagekeo",
+    "province": "Nusa Tenggara Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9bf9bae6-2ef0-4192-b182-c3b597251962",
+    "name": "Kabupaten Rote Ndao",
+    "province": "Nusa Tenggara Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "81ff99c1-c066-4288-a69a-883ef6f9b10d",
+    "name": "Kabupaten Sabu Raijua",
+    "province": "Nusa Tenggara Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "3a7c2beb-cd67-4478-b597-30604feb36ee",
+    "name": "Kabupaten Sikka",
+    "province": "Nusa Tenggara Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "70c5290d-0351-4eb6-a221-3fadcf1e5c63",
+    "name": "Kabupaten Sumba Barat",
+    "province": "Nusa Tenggara Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "333f6e8c-5177-4423-9f99-4a4bbb269874",
+    "name": "Kabupaten Sumba Barat Daya",
+    "province": "Nusa Tenggara Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "96e50304-7f16-46ca-ba9f-de1a3185586d",
+    "name": "Kabupaten Sumba Tengah",
+    "province": "Nusa Tenggara Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9210578b-0eed-4a5c-ae4d-4aa6b1dc8886",
+    "name": "Kabupaten Sumba Timur",
+    "province": "Nusa Tenggara Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "37e4fdfc-8f14-43ce-b5c7-c89e3fca918b",
+    "name": "Kabupaten Timor Tengah Selatan",
+    "province": "Nusa Tenggara Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "7b2dee32-a8c7-488a-a77c-9a2992b2ced9",
+    "name": "Kabupaten Timor Tengah Utara",
+    "province": "Nusa Tenggara Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "4dddba0e-17ac-4742-9d9b-109857ebfca6",
+    "name": "Kota Kupang",
+    "province": "Nusa Tenggara Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "28391a7b-a5fa-4d18-880c-1d1b864f8b55",
+    "name": "Kabupaten Bengkayang",
+    "province": "Kalimantan Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "acb7d725-b5e6-4101-9186-a3cae9b4dc9a",
+    "name": "Kabupaten Kapuas Hulu",
+    "province": "Kalimantan Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "7154e3e9-22d6-42d5-a0f3-3ef76a2ebb72",
+    "name": "Kabupaten Kayong Utara",
+    "province": "Kalimantan Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "f5e3f4c3-1a82-4574-8df9-65f2fe3c56c9",
+    "name": "Kabupaten Ketapang",
+    "province": "Kalimantan Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9acdfc48-6ba2-44ab-a0a8-9bfc5277a7cc",
+    "name": "Kabupaten Kubu Raya",
+    "province": "Kalimantan Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "f206a16a-7df1-449e-9168-f25e0ad4d866",
+    "name": "Kabupaten Landak",
+    "province": "Kalimantan Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "675fd3f1-4bcc-4397-8d33-a19ef475734f",
+    "name": "Kabupaten Melawi",
+    "province": "Kalimantan Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "4824f8b6-31f3-41dc-88d3-a1b378a74100",
+    "name": "Kabupaten Mempawah",
+    "province": "Kalimantan Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "89e53316-de40-4865-89fc-942266236adb",
+    "name": "Kabupaten Sambas",
+    "province": "Kalimantan Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "d8c31a40-3a6f-419b-8360-42471a26b355",
+    "name": "Kabupaten Sanggau",
+    "province": "Kalimantan Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "1a24c52d-8f6b-4564-8ad9-a985c032ff47",
+    "name": "Kabupaten Sekadau",
+    "province": "Kalimantan Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "000910c5-eda7-450b-8e52-12dc09c465c7",
+    "name": "Kabupaten Sintang",
+    "province": "Kalimantan Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "3350ede7-172c-4e0c-80f9-1f096c779412",
+    "name": "Kota Pontianak",
+    "province": "Kalimantan Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "3166bd4e-570e-44ca-9cbf-454a23959101",
+    "name": "Kota Singkawang",
+    "province": "Kalimantan Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "511a7130-399f-4717-beb4-3509e896ce87",
+    "name": "Kabupaten Balangan",
+    "province": "Kalimantan Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e9563eed-2501-4dd4-ab2c-cb2e355017db",
+    "name": "Kabupaten Banjar",
+    "province": "Kalimantan Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "8d153aaf-a639-4ae1-abc1-e68b2d481a0a",
+    "name": "Kabupaten Barito Kuala",
+    "province": "Kalimantan Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "caecc90f-4d88-4783-9ec7-4e7a8ee81fb5",
+    "name": "Kabupaten Hulu Sungai Selatan",
+    "province": "Kalimantan Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "84c184a1-603d-4153-863f-b7c4f61502ad",
+    "name": "Kabupaten Hulu Sungai Tengah",
+    "province": "Kalimantan Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "001b0747-ea1d-4848-b355-25e9d38fa820",
+    "name": "Kabupaten Hulu Sungai Utara",
+    "province": "Kalimantan Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "284a4da3-1b29-40ad-bc3c-3e0d8710eb5f",
+    "name": "Kabupaten Kotabaru",
+    "province": "Kalimantan Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "00d0f430-1c0c-4568-8f0b-6708d1c0b8aa",
+    "name": "Kabupaten Tabalong",
+    "province": "Kalimantan Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "f36ee8ae-87a5-479a-ade6-32d4d20f6341",
+    "name": "Kabupaten Tanah Bumbu",
+    "province": "Kalimantan Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "bc569ed2-684c-4ec3-87ec-bcca22b8b8b6",
+    "name": "Kabupaten Tanah Laut",
+    "province": "Kalimantan Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e1fed5d3-7b82-411a-b013-6c2b20426c39",
+    "name": "Kabupaten Tapin",
+    "province": "Kalimantan Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "88d10c93-37a5-4d33-bd07-14bf7bc6df57",
+    "name": "Kota Banjarbaru",
+    "province": "Kalimantan Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "ff8f9819-f7d6-4805-bd4d-6271bcb4c537",
+    "name": "Kota Banjarmasin",
+    "province": "Kalimantan Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "a0ae916f-a231-4ae6-b7aa-425078bf8cbe",
+    "name": "Kabupaten Barito Selatan",
+    "province": "Kalimantan Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "218592cd-9b55-4ef9-a05b-a979f13ab575",
+    "name": "Kabupaten Barito Timur",
+    "province": "Kalimantan Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "3dc36b33-7918-4fb5-a579-3a71290e2310",
+    "name": "Kabupaten Barito Utara",
+    "province": "Kalimantan Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "7af0f097-375a-4ded-aec2-aa18bf6cecd0",
+    "name": "Kabupaten Gunung Mas",
+    "province": "Kalimantan Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "6dab9333-553c-4ee0-a5f8-813d0eebcbe6",
+    "name": "Kabupaten Kapuas",
+    "province": "Kalimantan Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "b670d7e1-14c9-4c9a-a3d3-f8a2e8727755",
+    "name": "Kabupaten Katingan",
+    "province": "Kalimantan Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "0b180d9e-517e-41e7-a253-4baae2c9c339",
+    "name": "Kabupaten Kotawaringin Barat",
+    "province": "Kalimantan Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9dbfb4ce-587e-4053-bea1-11576ad3af76",
+    "name": "Kabupaten Kotawaringin Timur",
+    "province": "Kalimantan Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "73ef3590-0d31-4bf5-af95-334503752e14",
+    "name": "Kabupaten Lamandau",
+    "province": "Kalimantan Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e57580a8-dfdd-49b7-ab50-b28c143cdf43",
+    "name": "Kabupaten Murung Raya",
+    "province": "Kalimantan Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "4d2db6ee-f3a5-43eb-874a-0ff9a0ffa4b5",
+    "name": "Kabupaten Pulang Pisau",
+    "province": "Kalimantan Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "68f5d28f-3d7d-4006-a35a-22d620ed705f",
+    "name": "Kabupaten Sukamara",
+    "province": "Kalimantan Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "5b2a030c-6be5-4706-86ca-880f33786b5c",
+    "name": "Kabupaten Seruyan",
+    "province": "Kalimantan Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "b6b03436-9ff5-4c57-af3c-69bf4485e24b",
+    "name": "Kota Palangka Raya",
+    "province": "Kalimantan Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "418ae31c-f18d-4ce7-9809-c4bfed655a40",
+    "name": "Kabupaten Berau",
+    "province": "Kalimantan Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "4941c8e6-7465-4250-ac26-f92413c4a35f",
+    "name": "Kabupaten Kutai Barat",
+    "province": "Kalimantan Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "4bd85bee-17c5-4e53-a5a1-2352846babd2",
+    "name": "Kabupaten Kutai Timur",
+    "province": "Kalimantan Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "53d3146e-66b6-46f0-85d7-0490af6ffe3b",
+    "name": "Kabupaten Mahakam Ulu",
+    "province": "Kalimantan Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "842e4d2f-24b2-4b6e-ab07-5d5dc553f4a0",
+    "name": "Kabupaten Paser",
+    "province": "Kalimantan Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "1cae8336-8ab7-46c8-ac42-488c5d40d63e",
+    "name": "Kabupaten Penajam Paser Utara",
+    "province": "Kalimantan Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "5156879b-ec6b-4a78-87da-e8b09a035d88",
+    "name": "Kota Bontang",
+    "province": "Kalimantan Timur",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "f45b5782-cc9d-4501-96e7-d1805a93a5cb",
+    "name": "Kabupaten Bulungan",
+    "province": "Kalimantan Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "262db90b-8f98-437a-8b3c-2be5499f9915",
+    "name": "Kabupaten Malinau",
+    "province": "Kalimantan Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "13b3cd38-f089-42fc-b5a2-06a34b468ff4",
+    "name": "Kabupaten Nunukan",
+    "province": "Kalimantan Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "cb4b4e50-4f97-4678-b7de-f2fd7b5e0f03",
+    "name": "Kabupaten Tana Tidung",
+    "province": "Kalimantan Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "5bfb7b52-eecb-492e-94ff-f9f0278bd028",
+    "name": "Kota Tarakan",
+    "province": "Kalimantan Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "fe43b296-f6f1-409c-aa24-585c92c50199",
+    "name": "Kabupaten Boalemo",
+    "province": "Gorontalo",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "d3619d05-82a4-4fa5-af1b-ab9af862ab56",
+    "name": "Kabupaten Bone Bolango",
+    "province": "Gorontalo",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "32a9046b-6032-4ee2-a130-37e538da32ca",
+    "name": "Kabupaten Gorontalo",
+    "province": "Gorontalo",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "30669692-46ae-40c0-ac0f-5f7e4f46fa34",
+    "name": "Kabupaten Gorontalo Utara",
+    "province": "Gorontalo",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "8b052e06-bf55-42bb-bde5-b64489a6d0b8",
+    "name": "Kabupaten Pohuwato",
+    "province": "Gorontalo",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "64d62c5f-db04-4efb-a401-651a9c8a67a3",
+    "name": "Kota Gorontalo",
+    "province": "Gorontalo",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "b2e0e3db-928f-462a-a5a3-773a33c9af0a",
+    "name": "Kabupaten Bantaeng",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "c13cccd7-5774-49d1-ae02-0f6bcbbd8eff",
+    "name": "Kabupaten Barru",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "6957a261-65c0-42bb-a019-8870b020f408",
+    "name": "Kabupaten Bone",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "b2b0863a-57dd-4238-82c5-fc7dfb9d38ec",
+    "name": "Kabupaten Bulukumba",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "88010892-cce1-489c-9a26-82f0b1c20e9e",
+    "name": "Kabupaten Enrekang",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "8aee84f9-c7a2-4e32-8d21-082d5cdeaaee",
+    "name": "Kabupaten Gowa",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e9163d64-5516-4af6-85a6-53763c80ca5f",
+    "name": "Kabupaten Jeneponto",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e093d3e2-629c-403d-8dc9-9ae5f967e15c",
+    "name": "Kabupaten Kepulauan Selayar",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e6dd032c-6bee-49b5-a265-94493cc8d106",
+    "name": "Kabupaten Luwu",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "0b52705a-ef4c-424c-9554-6fca74f8d83c",
+    "name": "Kabupaten Luwu Timur",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "756d898f-253d-44ce-b3c0-8c75512c7eb4",
+    "name": "Kabupaten Luwu Utara",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "1ca5d423-b63b-4a26-b31a-5bd542436268",
+    "name": "Kabupaten Maros",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "28137fbc-7354-4cd7-843d-785c709745b9",
+    "name": "Kabupaten Pangkajene dan Kepulauan",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "c80106d4-9f9a-44ba-8efc-5e55d559f2ef",
+    "name": "Kabupaten Pinrang",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "414e36e0-0aed-447a-885d-23fe8e49e60f",
+    "name": "Kabupaten Sidenreng Rappang",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "0fab0b0f-db8d-4a97-b86e-32b3adc58d1a",
+    "name": "Kabupaten Sinjai",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "be5d256a-f3c5-4932-a2df-c4cf52627751",
+    "name": "Kabupaten Soppeng",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "11ae5332-00d7-4b70-8507-51d81eb7e119",
+    "name": "Kabupaten Takalar",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "c0b0c561-309a-45e6-8b0a-13ea45cef1a9",
+    "name": "Kabupaten Tana Toraja",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "c5a83aa2-d495-4dbd-b893-6246abc16f0a",
+    "name": "Kabupaten Toraja Utara",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "ab13bd47-e42b-41ba-858e-d9842a62b4a3",
+    "name": "Kabupaten Wajo",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "f690b400-4395-4e2c-b4b0-e1b0c27e59e5",
+    "name": "Kota Makassar",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "4c032f8a-d065-463a-ae0e-7ded06af0dda",
+    "name": "Kota Palopo",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "ef16ebe3-4d05-476e-ae4c-6cfcd10df634",
+    "name": "Kota Parepare",
+    "province": "Sulawesi Selatan",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "2bc20033-dab1-4573-a04b-b83c35c070aa",
+    "name": "Kabupaten Bombana",
+    "province": "Sulawesi Tenggara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "51fa781c-8cb4-4134-9bc1-1f1bbd78ddf8",
+    "name": "Kabupaten Buton",
+    "province": "Sulawesi Tenggara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "8c17755f-b707-478f-bd2b-a7d230e883ce",
+    "name": "Kabupaten Buton Selatan",
+    "province": "Sulawesi Tenggara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "72e1b14f-3826-4474-85a8-0163c556458a",
+    "name": "Kabupaten Buton Tengah",
+    "province": "Sulawesi Tenggara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "0ab24a0f-7b72-4429-bec1-a8a0b0dfd947",
+    "name": "Kabupaten Buton Utara",
+    "province": "Sulawesi Tenggara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "33198444-4429-43f2-ae88-7ee4474d5cda",
+    "name": "Kabupaten Kolaka",
+    "province": "Sulawesi Tenggara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "739ef2a5-5303-4975-810e-167ea5c49fb7",
+    "name": "Kabupaten Kolaka Timur",
+    "province": "Sulawesi Tenggara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e59bb9a8-c112-4ad4-9bcc-833a8d198344",
+    "name": "Kabupaten Kolaka Utara",
+    "province": "Sulawesi Tenggara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "a67d9daa-29d7-47a4-a51a-89869d45264e",
+    "name": "Kabupaten Konawe",
+    "province": "Sulawesi Tenggara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "7ac6b1ce-caf1-4586-ae10-1d6944d12bca",
+    "name": "Kabupaten Konawe Kepulauan",
+    "province": "Sulawesi Tenggara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "d7be9b3c-2732-4993-bad5-7a3d932eeb17",
+    "name": "Kabupaten Konawe Selatan",
+    "province": "Sulawesi Tenggara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "d332131e-0eaa-456b-bb5a-4de93a15f6db",
+    "name": "Kabupaten Konawe Utara",
+    "province": "Sulawesi Tenggara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "69fcf888-225e-4c92-bbe6-5743bb67db09",
+    "name": "Kabupaten Muna",
+    "province": "Sulawesi Tenggara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "ef97202c-9464-4917-8de2-baef3b992e75",
+    "name": "Kabupaten Muna Barat",
+    "province": "Sulawesi Tenggara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "acfaa2d4-86cb-4edd-92e6-8aee54f8c6c1",
+    "name": "Kabupaten Wakatobi",
+    "province": "Sulawesi Tenggara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "19585939-5960-416b-92ae-6d87c33c1448",
+    "name": "Kota Bau-Bau",
+    "province": "Sulawesi Tenggara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "0c788ab1-3cd8-4ccf-ab7e-e2b0ce5c5923",
+    "name": "Kota Kendari",
+    "province": "Sulawesi Tenggara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "eb2d1c9d-a9a9-41bb-9d5c-1397409b8b90",
+    "name": "Kabupaten Banggai",
+    "province": "Sulawesi Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "955b0198-724e-48f9-aeef-a59127b66374",
+    "name": "Kabupaten Banggai Kepulauan",
+    "province": "Sulawesi Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "f4ef0dee-b101-4d9c-9a14-e414aba82009",
+    "name": "Kabupaten Banggai Laut",
+    "province": "Sulawesi Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "663400d1-44d4-4700-ab9b-3851396fb721",
+    "name": "Kabupaten Buol",
+    "province": "Sulawesi Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e0cd260c-deb4-42de-999a-b913089b88ab",
+    "name": "Kabupaten Donggala",
+    "province": "Sulawesi Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "b8897bdb-c248-4b48-ac23-a48b25b7bb8e",
+    "name": "Kabupaten Morowali",
+    "province": "Sulawesi Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "5783c88d-e69c-45af-9e8c-364d8d8be028",
+    "name": "Kabupaten Morowali Utara",
+    "province": "Sulawesi Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e0ba1f54-ffe9-4634-8074-aaf54d80a9b5",
+    "name": "Kabupaten Parigi Moutong",
+    "province": "Sulawesi Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "af6242fc-dbe9-40b3-8153-e92ccd90472b",
+    "name": "Kabupaten Poso",
+    "province": "Sulawesi Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "e6f0575d-6100-48c4-8a4f-d382064c2e6e",
+    "name": "Kabupaten Sigi",
+    "province": "Sulawesi Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "ebc6d73c-ebbc-47b1-bf95-c541d97b5d7e",
+    "name": "Kabupaten Tojo Una-Una",
+    "province": "Sulawesi Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "18aaf347-f46b-4a56-a617-dd4e30e63617",
+    "name": "Kabupaten Toli-Toli",
+    "province": "Sulawesi Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "dcec37cd-6d17-46e3-8c74-a92dd7eb15fc",
+    "name": "Kota Palu",
+    "province": "Sulawesi Tengah",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "809d0f9b-31d4-447b-b25b-bffdd1aa316b",
+    "name": "Kabupaten Bolaang Mongondow",
+    "province": "Sulawesi Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "2636278d-f59f-4943-b5f8-d3409afeec0e",
+    "name": "Kabupaten Bolaang Mongondow Selatan",
+    "province": "Sulawesi Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "64d720b4-ee1f-4123-bafa-f0257945cb26",
+    "name": "Kabupaten Bolaang Mongondow Timur",
+    "province": "Sulawesi Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "0cb6da5a-25d0-4c0f-8d2e-229797fdf2df",
+    "name": "Kabupaten Bolaang Mongondow Utara",
+    "province": "Sulawesi Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "73ccb85a-f89c-47eb-9c65-fbe72c356344",
+    "name": "Kabupaten Kepulauan Sangihe",
+    "province": "Sulawesi Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "d532b244-7a24-4f65-922d-3ea280518c0d",
+    "name": "Kabupaten Kepulauan Siau Tagulandang Biaro",
+    "province": "Sulawesi Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "80be9f61-cb46-4adb-ab09-0eca8056579a",
+    "name": "Kabupaten Kepulauan Talaud",
+    "province": "Sulawesi Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "703f59fa-a7cf-41e7-81ea-988c4e3bff2a",
+    "name": "Kabupaten Minahasa",
+    "province": "Sulawesi Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9dccd085-d7d0-4e94-8199-57f65dd42498",
+    "name": "Kabupaten Minahasa Selatan",
+    "province": "Sulawesi Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "f615e4c3-7da1-46b8-bbaa-1300c5d9a004",
+    "name": "Kabupaten Minahasa Tenggara",
+    "province": "Sulawesi Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "f69a45b4-e894-41a8-89df-c42b7ab77db5",
+    "name": "Kabupaten Minahasa Utara",
+    "province": "Sulawesi Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "674854f1-b60d-44e9-b5dc-6f586e9180d4",
+    "name": "Kota Bitung",
+    "province": "Sulawesi Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "b2d2e044-a972-4a63-b0e9-ab37ec35c106",
+    "name": "Kota Kotamobagu",
+    "province": "Sulawesi Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "440e8eda-111b-40c0-b8a8-fb42fc7fb913",
+    "name": "Kota Manado",
+    "province": "Sulawesi Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "3694e779-df77-4e63-844d-dd9e5e4fe8fa",
+    "name": "Kota Tomohon",
+    "province": "Sulawesi Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "798857d0-31de-475a-99f9-b83200bcf695",
+    "name": "Kabupaten Majene",
+    "province": "Sulawesi Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "806e903a-7b82-4957-bd8a-bc46b0a1f716",
+    "name": "Kabupaten Mamasa",
+    "province": "Sulawesi Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "c1fcd396-50bf-4cc3-a0f2-6fa3c39930b0",
+    "name": "Kabupaten Mamuju",
+    "province": "Sulawesi Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "8cee3800-0b8e-4e86-8b43-925de1dfbba6",
+    "name": "Kabupaten Mamuju Tengah",
+    "province": "Sulawesi Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "500e1cc0-12e8-467a-9dad-072999a56ebd",
+    "name": "Kabupaten Mamuju Utara",
+    "province": "Sulawesi Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "6aa7d148-9f8f-4b04-b8ae-bd09fbfef75d",
+    "name": "Kabupaten Polewali Mandar",
+    "province": "Sulawesi Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "5cf5cdb4-90b6-4b84-aa6f-a44b4e18932c",
+    "name": "Kota Mamuju",
+    "province": "Sulawesi Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "c934ad82-67a2-43da-9e35-5b8dc1a9ae77",
+    "name": "Kabupaten Buru",
+    "province": "Maluku",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "85519b80-0de5-4c83-9aba-d02a2de7814b",
+    "name": "Kabupaten Buru Selatan",
+    "province": "Maluku",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "7aea32a1-143f-4e87-857e-256c1253af8e",
+    "name": "Kabupaten Kepulauan Aru",
+    "province": "Maluku",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "d8bfc324-7e1e-4d7b-bc13-7fe9e1ce9c22",
+    "name": "Kabupaten Maluku Barat Daya",
+    "province": "Maluku",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "d946b9cc-fd43-4edf-8ed9-16e5dffb8477",
+    "name": "Kabupaten Maluku Tengah",
+    "province": "Maluku",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "5afa0bee-5724-4f4c-b928-e362b6596d54",
+    "name": "Kabupaten Maluku Tenggara",
+    "province": "Maluku",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "6abb527e-c0f7-4f43-9dfd-b2294642b06a",
+    "name": "Kabupaten Maluku Tenggara Barat",
+    "province": "Maluku",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9a572938-7ea4-4f26-b37d-946e9b6ed7fe",
+    "name": "Kabupaten Seram Bagian Barat",
+    "province": "Maluku",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "96301348-9843-48e6-bb9c-ae02422007f4",
+    "name": "Kabupaten Seram Bagian Timur",
+    "province": "Maluku",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "48550720-9efb-4492-9f7e-ea7f6c32a8d9",
+    "name": "Kota Ambon",
+    "province": "Maluku",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "b21fdf62-6280-47ef-be58-002b91e4170b",
+    "name": "Kota Tual",
+    "province": "Maluku",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "f281a4cc-b46f-43c8-a58d-b889da04ba84",
+    "name": "Kabupaten Halmahera Barat",
+    "province": "Maluku Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "6a2e6020-d72a-4936-9ddd-33661050c1ee",
+    "name": "Kabupaten Halmahera Tengah",
+    "province": "Maluku Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "f83c89b4-4b0f-40a5-9e64-a46c1cc46f0d",
+    "name": "Kabupaten Halmahera Utara",
+    "province": "Maluku Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "33196020-a36e-41b5-b536-6a328ce97cb1",
+    "name": "Kabupaten Halmahera Selatan",
+    "province": "Maluku Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "743b9410-7484-4af8-8f2d-a07073478566",
+    "name": "Kabupaten Kepulauan Sula",
+    "province": "Maluku Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "a7f40efa-3569-4cc1-9fa8-8ff035ece0e0",
+    "name": "Kabupaten Halmahera Timur",
+    "province": "Maluku Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "da688ce8-9f40-40a3-9ef4-1358889369e5",
+    "name": "Kabupaten Pulau Morotai",
+    "province": "Maluku Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "13c31f09-ec6b-431b-b8f8-2a73c7170769",
+    "name": "Kabupaten Pulau Taliabu",
+    "province": "Maluku Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "b77e3a60-9d44-4766-be9a-3b1255635ce0",
+    "name": "Kota Ternate",
+    "province": "Maluku Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "11883be9-d83c-4050-a699-ce780bc9abd7",
+    "name": "Kota Tidore Kepulauan",
+    "province": "Maluku Utara",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "20d022d6-a658-4937-9aba-f8d4e144383c",
+    "name": "Kabupaten Asmat",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "17f9009f-2490-43ba-aea8-25892cf24304",
+    "name": "Kabupaten Biak Numfor",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "f15da3a3-f47b-4ded-a28f-c372473fafa0",
+    "name": "Kabupaten Boven Digoel",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "6d321c2e-cdee-47a4-a7a9-0f94162acf19",
+    "name": "Kabupaten Deiyai",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "4da72335-b67f-4376-8cd0-d595a83c7350",
+    "name": "Kabupaten Dogiyai",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "a788d65e-4327-4be5-80c0-b603ae7b1b3a",
+    "name": "Kabupaten Intan Jaya",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "26cfd874-2d29-49c1-a78e-ceefa3cf5604",
+    "name": "Kabupaten Jayapura",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "102801e5-fbad-465c-8b94-7ea918a10ff3",
+    "name": "Kabupaten Jayawijaya",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "900e8513-2017-4335-ad68-aafb12b4aacd",
+    "name": "Kabupaten Keerom",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "f4fc60c0-f3a6-45fe-8466-898901bd8698",
+    "name": "Kabupaten Kepulauan Yapen",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "6f3da3ab-aa10-4b8f-903e-d0e621665c39",
+    "name": "Kabupaten Lanny Jaya",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "0eecea25-1037-47e7-8db5-b674b16c1de4",
+    "name": "Kabupaten Mamberamo Raya",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "fcf22fa6-ad40-460b-8ca6-633c358cb3b4",
+    "name": "Kabupaten Mamberamo Tengah",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "7db829ce-1e07-41fb-86ee-5769ed2849a5",
+    "name": "Kabupaten Mappi",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "42cd2870-ce64-4df8-8a8d-e58c20fb4a9e",
+    "name": "Kabupaten Merauke",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "d4fd2069-02c1-40ed-9c4b-449974c8873e",
+    "name": "Kabupaten Mimika",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "2124a5cb-911d-4b89-905e-08faa2e9fce2",
+    "name": "Kabupaten Nabire",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "efb6e905-4faf-421a-bb71-1fc89f38dada",
+    "name": "Kabupaten Nduga",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "fe51c7db-0899-45b6-8cba-24d61e99ee3b",
+    "name": "Kabupaten Paniai",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "1666d36c-7b78-4883-8d9c-500b9e1c125f",
+    "name": "Kabupaten Pegunungan Bintang",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "aef47464-111c-4820-831e-c77c0a56e5b5",
+    "name": "Kabupaten Puncak",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "743c18e4-ebfb-4505-a4af-7a733788341b",
+    "name": "Kabupaten Puncak Jaya",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "bea743e6-a960-457c-a772-871a1d0dcd9c",
+    "name": "Kabupaten Sarmi",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "c3be13ea-bf04-4276-803c-139a202bae11",
+    "name": "Kabupaten Supiori",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "55bc1071-0b46-4330-9457-67ae305208b3",
+    "name": "Kabupaten Tolikara",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9a442e6c-a327-4d2c-b6d5-66988b9777bc",
+    "name": "Kabupaten Waropen",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "bd100b81-262b-4f29-9b78-ce28b2b77a4f",
+    "name": "Kabupaten Yahukimo",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "beabea81-902a-447d-afd7-d06cf6136ca9",
+    "name": "Kabupaten Yalimo",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "3f77d3a0-e827-4937-bf57-ef06df0d7a21",
+    "name": "Kota Jayapura",
+    "province": "Papua",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "0b0cabfd-3fcd-4959-8111-8aa0455020f3",
+    "name": "Kabupaten Fakfak",
+    "province": "Papua Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "41b86f94-654a-4ebe-8fb8-71212bd9fe67",
+    "name": "Kabupaten Kaimana",
+    "province": "Papua Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "05f6f187-0213-4326-a127-3af3e9de3260",
+    "name": "Kabupaten Manokwari",
+    "province": "Papua Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "66da59ad-108a-4acc-9e9d-d6bea35f67da",
+    "name": "Kabupaten Manokwari Selatan",
+    "province": "Papua Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "064263b3-255b-4f88-8f6a-5f89f813a84e",
+    "name": "Kabupaten Maybrat",
+    "province": "Papua Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9ef17e0d-6e66-4a61-9006-6890b55a870f",
+    "name": "Kabupaten Pegunungan Arfak",
+    "province": "Papua Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "da9792f1-bd08-46d9-b3b9-e91194a450c2",
+    "name": "Kabupaten Raja Ampat",
+    "province": "Papua Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "986d3256-4bdd-48ab-95d3-8743b88c1c18",
+    "name": "Kabupaten Sorong",
+    "province": "Papua Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "9e085bfa-9475-4bbe-b357-218582982bd7",
+    "name": "Kabupaten Sorong Selatan",
+    "province": "Papua Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "cf7a5a86-7af8-42a8-b776-d17ef4f6af62",
+    "name": "Kabupaten Tambrauw",
+    "province": "Papua Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "10a86618-6010-44ba-93ff-d99eb6495fd5",
+    "name": "Kabupaten Teluk Bintuni",
+    "province": "Papua Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  },
+  {
+    "id": "ac47a914-8b5d-4682-8a4d-9568db8223de",
+    "name": "Kabupaten Teluk Wondama",
+    "province": "Papua Barat",
+    "created_at": "2026-07-18 10:59:43.438847+00",
+    "updated_at": "2026-07-18 10:59:43.438847+00"
+  }
+]

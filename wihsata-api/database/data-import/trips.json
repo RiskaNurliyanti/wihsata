@@ -1,0 +1,630 @@
+[
+  {
+    "id": "3a6af72a-77b3-4709-a4dd-cb7f251000e1",
+    "user_id": "3cca89b0-6e1d-41df-8d65-4818f1380bf6",
+    "title": "3‑hari perjalanan santai ke Biduk‑Biduk berfokus pada Labuan Cermin untuk snorke",
+    "start_date": "2026-07-19",
+    "end_date": "2026-07-21",
+    "status": "completed",
+    "budget_estimate": 950000.0,
+    "preferences": null,
+    "itinerary": [
+      {
+        "day": 1,
+        "date": "2026-07-18",
+        "items": [
+          {
+            "time": "07:00",
+            "notes": "Biaya transport 2 orang",
+            "activity": "Perjalanan menuju Labuan Cermin (transport umum/sewa ojek)",
+            "estimated_cost": 20000,
+            "destination_name": ""
+          },
+          {
+            "time": "08:30",
+            "notes": "Tiket masuk 2 orang (harga lower bound Rp 400.000/orang)",
+            "activity": "Snorkeling, berenang, dan fotografi air jernih di Labuan Cermin",
+            "destination_id": "e02e022f-e179-4b69-8b6b-8e99eee683b1",
+            "estimated_cost": 800000,
+            "destination_name": "Labuan Cermin",
+            "destination_slug": "labuan-cermin",
+            "destination_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaYYCk13g-QEvc0tX4_y2-4QLEv1p8wL0Or90TgtPPxl6sg3zn6NSX4G0&s=10"
+          },
+          {
+            "time": "12:00",
+            "notes": "Nasi ikan + sayur untuk 2 orang",
+            "activity": "Makan siang di warung lokal di sekitar Labuan Cermin",
+            "estimated_cost": 20000,
+            "destination_name": ""
+          }
+        ],
+        "subtotal": 840000
+      },
+      {
+        "day": 2,
+        "date": "2026-07-19",
+        "items": [
+          {
+            "time": "08:00",
+            "notes": "Nasi + lauk sederhana",
+            "activity": "Sarapan pagi di homestay/kost",
+            "estimated_cost": 20000,
+            "destination_name": ""
+          },
+          {
+            "time": "09:30",
+            "notes": "Tidak ada biaya tiket",
+            "activity": "Jelajahi Kampung Teluk Sumbang – interaksi budaya, foto rumah adat & nelayan",
+            "estimated_cost": 0,
+            "destination_name": ""
+          },
+          {
+            "time": "12:30",
+            "notes": "Menu seafood segar",
+            "activity": "Makan siang di warung kampung",
+            "estimated_cost": 20000,
+            "destination_name": ""
+          },
+          {
+            "time": "14:30",
+            "notes": "Golden hour photography",
+            "activity": "Fotografi mangrove & pantai pasir putih di sekitar Biduk‑Biduk",
+            "estimated_cost": 0,
+            "destination_name": ""
+          },
+          {
+            "time": "18:30",
+            "notes": "Sup ikan + nasi",
+            "activity": "Makan malam santai di homestay",
+            "estimated_cost": 20000,
+            "destination_name": ""
+          }
+        ],
+        "subtotal": 60000
+      },
+      {
+        "day": 3,
+        "date": "2026-07-20",
+        "items": [
+          {
+            "time": "05:30",
+            "notes": "Bawa kamera/tripod",
+            "activity": "Fotografi matahari terbit di pantai Biduk‑Biduk",
+            "estimated_cost": 0,
+            "destination_name": ""
+          },
+          {
+            "time": "08:00",
+            "notes": "Roti + kopi",
+            "activity": "Sarapan terakhir & packing",
+            "estimated_cost": 20000,
+            "destination_name": ""
+          },
+          {
+            "time": "10:00",
+            "notes": "Sewa mobil/angkot 2 orang",
+            "activity": "Perjalanan pulang (transport ke bandara/pelabuhan)",
+            "estimated_cost": 30000,
+            "destination_name": ""
+          }
+        ],
+        "subtotal": 50000
+      }
+    ],
+    "cover_image_url": null,
+    "is_public": false,
+    "created_at": "2026-07-18 11:24:09.57414+00",
+    "updated_at": "2026-07-21 13:46:03.874893+00"
+  },
+  {
+    "id": "b99935d2-8680-4f9c-ae34-b22e72505682",
+    "user_id": "3cca89b0-6e1d-41df-8d65-4818f1380bf6",
+    "title": "Perjalanan 2 hari 1 malam di Kutai Timur mengunjungi Pulau Miang untuk alam, fot",
+    "start_date": null,
+    "end_date": null,
+    "status": "completed",
+    "budget_estimate": 840000.0,
+    "preferences": null,
+    "itinerary": [
+      {
+        "day": 1,
+        "date": "2026-07-22",
+        "items": [
+          {
+            "time": "07:30",
+            "notes": "Biaya untuk 2 orang perjalanan bolak-balik nanti dihitung di item pulang",
+            "activity": "Berangkat dari penginapan menuju Dermaga Pulau Miang menggunakan transportasi umum (angkot/ojek)",
+            "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmrKxpCgMozT9CuyY1h5fd4d4uI7E6PrJVIKuRCU6yPzD7CtR4NvAQdVCbXPRCuUv5kndOXJrs4Hl0-rjPgt7uWtKMYpC23uNL-N3lV87pSmMeSV9P_W66O0AOLrjIQZHHuwn2HkMQ8FKu_=w408-h306-k-no",
+            "destination_id": "e8562d6a-1fbf-44d1-b329-e8558ea3c8d6",
+            "estimated_cost": 100000,
+            "destination_name": "Dermaga Pulau Miang"
+          },
+          {
+            "time": "08:30",
+            "notes": "Perhatikan jadwal kapal terakhir pulang sekitar pukul 15:00; cuaca cerah di musim kemarau",
+            "activity": "Naik kapal penyeberangan dari Dermaga Pulau Miang ke Pulau Miang (perjalanan ±15 menit, tiket bolak-balik)",
+            "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmrKxpCgMozT9CuyY1h5fd4d4uI7E6PrJVIKuRCU6yPzD7CtR4NvAQdVCbXPRCuUv5kndOXJrs4Hl0-rjPgt7uWtKMYpC23uNL-N3lV87pSmMeSV9P_W66O0AOLrjIQZHHuwn2HkMQ8FKu_=w408-h306-k-no",
+            "destination_id": "e8562d6a-1fbf-44d1-b329-e8558ea3c8d6",
+            "estimated_cost": 60000,
+            "destination_name": "Pulau Miang"
+          },
+          {
+            "time": "09:00",
+            "notes": "Sewa gear snorkel 50.000/orang; bawa kamera tahan air",
+            "activity": "Wisata alam, snorkeling ringan, dan fotografi pantai serta terumbu karang",
+            "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmrKxpCgMozT9CuyY1h5fd4d4uI7E6PrJVIKuRCU6yPzD7CtR4NvAQdVCbXPRCuUv5kndOXJrs4Hl0-rjPgt7uWtKMYpC23uNL-N3lV87pSmMeSV9P_W66O0AOLrjIQZHHuwn2HkMQ8FKu_=w408-h306-k-no",
+            "destination_id": "e8562d6a-1fbf-44d1-b329-e8558ea3c8d6",
+            "estimated_cost": 100000,
+            "destination_name": "Pulau Miang"
+          },
+          {
+            "time": "12:00",
+            "notes": "Makan siang 80.000/orang + transport pulang 100.000 untuk 2 orang",
+            "activity": "Makan siang di warung pulau lalu pulang ke Dermaga Pulau Miang dan kembali ke penginapan",
+            "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmrKxpCgMozT9CuyY1h5fd4d4uI7E6PrJVIKuRCU6yPzD7CtR4NvAQdVCbXPRCuUv5kndOXJrs4Hl0-rjPgt7uWtKMYpC23uNL-N3lV87pSmMeSV9P_W66O0AOLrjIQZHHuwn2HkMQ8FKu_=w408-h306-k-no",
+            "destination_id": "e8562d6a-1fbf-44d1-b329-e8558ea3c8d6",
+            "estimated_cost": 260000,
+            "destination_name": "Pulau Miang"
+          }
+        ],
+        "subtotal": 520000
+      },
+      {
+        "day": 2,
+        "date": "2026-07-23",
+        "items": [
+          {
+            "time": "08:00",
+            "notes": "Perkiraan 30 menit perjalanan; bawa minum dan snack",
+            "activity": "Berangkat ke Danau Semayang menggunakan angkot/ojek dari penginapan",
+            "estimated_cost": 50000,
+            "destination_name": "Danau Semayang"
+          },
+          {
+            "time": "09:00",
+            "notes": "Sewa perahu 100.000 untuk 2 orang selama 1 jam",
+            "activity": "Wisata danau: naik perahu tradisional, fotografi pemandau dan burung, santai di tepi danau",
+            "estimated_cost": 100000,
+            "destination_name": "Danau Semayang"
+          },
+          {
+            "time": "12:00",
+            "notes": "Makan 60.000/orang + transport pulang 50.000 untuk 2 orang",
+            "activity": "Makan siang di warung tepi danau lalu pulang ke penginapan",
+            "estimated_cost": 170000,
+            "destination_name": "Danau Semayang"
+          }
+        ],
+        "subtotal": 320000
+      }
+    ],
+    "cover_image_url": null,
+    "is_public": false,
+    "created_at": "2026-07-21 09:48:44.365916+00",
+    "updated_at": "2026-07-22 23:08:53.812468+00"
+  },
+  {
+    "id": "ef16de5c-13e7-4639-9f98-ff76697ef580",
+    "user_id": "3cca89b0-6e1d-41df-8d65-4818f1380bf6",
+    "title": "Perjalanan 4 hari 3 malam dari Kaubun ke Biduk-Biduk mengunjungi Labuan Cermin d",
+    "start_date": null,
+    "end_date": null,
+    "status": "upcoming",
+    "budget_estimate": 5180000.0,
+    "preferences": null,
+    "itinerary": [
+      {
+        "day": 1,
+        "date": "2026-07-23",
+        "items": [
+          {
+            "time": "05:30",
+            "notes": "Jarak ±250 km, pastikan kendaraan dalam kondisi prima dan bawa bekal makanan/minum untuk perjalanan jauh.",
+            "activity": "Berangkat dari Kaubun menuju Biduk-Biduk menggunakan mobil pribadi (estimasi perjalanan 7 jam, biaya bensin ±Rp 300.000)",
+            "estimated_cost": 300000,
+            "destination_name": "Kaubun - Biduk-Biduk"
+          },
+          {
+            "time": "12:30",
+            "notes": "Tarif per malam Rp 400.000 (harga terendah dari daftar). Total 3 malam dibayar di muka.",
+            "activity": "Check-in Villa Sungai Kaput (3 malam), biaya sewa Rp 400.000/malam x 3 malam = Rp 1.200.000",
+            "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkd7RgXKz7CmKYIM44OhF1dLF671jMqvCsT3vvv6p862Aw5EjyIywd5UVUVO7qWJY1_P4gCZTgxXnbo5vl96OTFdBQANE4MYnfJi3eNK9xFV4vE5ObRnVjoZZT83Bp8pwYLcGI=w408-h306-k-no",
+            "destination_id": "2e13e754-5df1-4ab2-bc9c-a6c99389408d",
+            "estimated_cost": 1200000,
+            "destination_name": "Villa Sungai Kaput"
+          },
+          {
+            "time": "13:30",
+            "notes": "Estimasi untuk 2 orang.",
+            "activity": "Makan siang di warung lokal",
+            "estimated_cost": 100000,
+            "destination_name": "Warung Lokal Biduk-Biduk"
+          },
+          {
+            "time": "14:30",
+            "notes": "Harga tiket Rp 400.000 - Rp 800.000 sudah termasuk kapal. Gunakan harga terendah. Cocok untuk fotografi dan snorkling santai.",
+            "activity": "Berkunjung ke Labuan Cermin (tiket masuk sudah termasuk kapal, harga terendah Rp 400.000/orang x2 = Rp 800.000)",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaYYCk13g-QEvc0tX4_y2-4QLEv1p8wL0Or90TgtPPxl6sg3zn6NSX4G0&s=10",
+            "destination_id": "e02e022f-e179-4b69-8b6b-8e99eee683b1",
+            "estimated_cost": 800000,
+            "destination_name": "Labuan Cermin"
+          },
+          {
+            "time": "18:00",
+            "notes": "Estimasi makan malam 2 orang.",
+            "activity": "Kembali ke villa, istirahat dan makan malam",
+            "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkd7RgXKz7CmKYIM44OhF1dLF671jMqvCsT3vvv6p862Aw5EjyIywd5UVUVO7qWJY1_P4gCZTgxXnbo5vl96OTFdBQANE4MYnfJi3eNK9xFV4vE5ObRnVjoZZT83Bp8pwYLcGI=w408-h306-k-no",
+            "destination_id": "2e13e754-5df1-4ab2-bc9c-a6c99389408d",
+            "estimated_cost": 100000,
+            "destination_name": "Villa Sungai Kaput"
+          }
+        ],
+        "subtotal": 2500000
+      },
+      {
+        "day": 2,
+        "date": "2026-07-24",
+        "items": [
+          {
+            "time": "07:00",
+            "notes": "Estimasi sarapan 2 orang.",
+            "activity": "Sarapan",
+            "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkd7RgXKz7CmKYIM44OhF1dLF671jMqvCsT3vvv6p862Aw5EjyIywd5UVUVO7qWJY1_P4gCZTgxXnbo5vl96OTFdBQANE4MYnfJi3eNK9xFV4vE5ObRnVjoZZT83Bp8pwYLcGI=w408-h306-k-no",
+            "destination_id": "2e13e754-5df1-4ab2-bc9c-a6c99389408d",
+            "estimated_cost": 50000,
+            "destination_name": "Villa Sungai Kaput"
+          },
+          {
+            "time": "08:00",
+            "notes": "Biaya parkir/bensin kecil sekitar dermaga.",
+            "activity": "Menuju Dermaga Penyebrangan Teluk Sulaiman menggunakan mobil pribadi",
+            "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkl7_JesfI2Ev7W3Pee82p0wXD90VPWR1nmHL7FML6GClejgwqFDwPBSS6Lg9HSODW-J8S_w66GZ6K4oAjClCtYq9eGw512RR7lEv9flckEBf_hr9rIxr2RzZ7OoLzee8A4vAIlgw=w408-h544-k-no",
+            "destination_id": "b5fcb23c-6f3d-4eb8-9f2f-c7c8eaa479d2",
+            "estimated_cost": 50000,
+            "destination_name": "Dermaga Penyebrangan Teluk Sulaiman"
+          },
+          {
+            "time": "08:30",
+            "notes": "Biaya kapal ±Rp 40.000/orang (harga terendah). Perhatikan jadwal kapal terakhir pulang dan cuaca.",
+            "activity": "Naik kapal penyeberangan ke Pulau Kaniungan (biaya kapal Rp 40.000/orang x2 = Rp 80.000, durasi ±20 menit)",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQmuzXVTesSlg-3NYqS0aENCL442YKMwlM8EZ-wmJbPLo0pwaVQBlNIEqz&s=10",
+            "destination_id": "44ca2439-e6bd-471f-9b76-2e4db0ad64e6",
+            "estimated_cost": 80000,
+            "destination_name": "Kapal Penyeberangan ke Pulau Kaniungan"
+          },
+          {
+            "time": "09:00",
+            "notes": "Harga tiket Rp 700.000 - Rp 3.000.000. Gunakan harga terendah. Cocok untuk snorkling dan wahana air.",
+            "activity": "Snorkling & wahana air di Pulau Kaniungan (tiket masuk harga terendah Rp 700.000/orang x2 = Rp 1.400.000)",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQmuzXVTesSlg-3NYqS0aENCL442YKMwlM8EZ-wmJbPLo0pwaVQBlNIEqz&s=10",
+            "destination_id": "44ca2439-e6bd-471f-9b76-2e4db0ad64e6",
+            "estimated_cost": 1400000,
+            "destination_name": "Pulau Kaniungan"
+          },
+          {
+            "time": "12:00",
+            "notes": "Estimasi makanan di pulau untuk 2 orang.",
+            "activity": "Makan siang di pulau",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQmuzXVTesSlg-3NYqS0aENCL442YKMwlM8EZ-wmJbPLo0pwaVQBlNIEqz&s=10",
+            "destination_id": "44ca2439-e6bd-471f-9b76-2e4db0ad64e6",
+            "estimated_cost": 150000,
+            "destination_name": "Pulau Kaniungan"
+          },
+          {
+            "time": "15:00",
+            "notes": "Biaya kapal pulang sudah termasuk dalam tiket pulang pergi (asumsi tiket dua arah).",
+            "activity": "Pulang ke Dermaga, kembali ke villa",
+            "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkl7_JesfI2Ev7W3Pee82p0wXD90VPWR1nmHL7FML6GClejgwqFDwPBSS6Lg9HSODW-J8S_w66GZ6K4oAjClCtYq9eGw512RR7lEv9flckEBf_hr9rIxr2RzZ7OoLzee8A4vAIlgw=w408-h544-k-no",
+            "destination_id": "b5fcb23c-6f3d-4eb8-9f2f-c7c8eaa479d2",
+            "estimated_cost": 0,
+            "destination_name": "Dermaga Penyebrangan Teluk Sulaiman"
+          },
+          {
+            "time": "19:00",
+            "notes": "Estimasi makan malam 2 orang.",
+            "activity": "Makan malam",
+            "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkd7RgXKz7CmKYIM44OhF1dLF671jMqvCsT3vvv6p862Aw5EjyIywd5UVUVO7qWJY1_P4gCZTgxXnbo5vl96OTFdBQANE4MYnfJi3eNK9xFV4vE5ObRnVjoZZT83Bp8pwYLcGI=w408-h306-k-no",
+            "destination_id": "2e13e754-5df1-4ab2-bc9c-a6c99389408d",
+            "estimated_cost": 100000,
+            "destination_name": "Villa Sungai Kaput"
+          }
+        ],
+        "subtotal": 1830000
+      },
+      {
+        "day": 3,
+        "date": "2026-07-25",
+        "items": [
+          {
+            "time": "07:00",
+            "notes": "Estimasi sarapan 2 orang.",
+            "activity": "Sarapan",
+            "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkd7RgXKz7CmKYIM44OhF1dLF671jMqvCsT3vvv6p862Aw5EjyIywd5UVUVO7qWJY1_P4gCZTgxXnbo5vl96OTFdBQANE4MYnfJi3eNK9xFV4vE5ObRnVjoZZT83Bp8pwYLcGI=w408-h306-k-no",
+            "destination_id": "2e13e754-5df1-4ab2-bc9c-a6c99389408d",
+            "estimated_cost": 50000,
+            "destination_name": "Villa Sungai Kaput"
+          },
+          {
+            "time": "08:30",
+            "notes": "Tidak ada transport umum, gunakan ojek carteran/sewa motor untuk menjelajahi desa dan spot fotografi.",
+            "activity": "Wisata budaya & fotografi di desa Biduk-Biduk (sewa ojek carteran seharian Rp 150.000)",
+            "estimated_cost": 150000,
+            "destination_name": "Desa Biduk-Biduk"
+          },
+          {
+            "time": "12:00",
+            "notes": "Estimasi 2 orang.",
+            "activity": "Makan siang",
+            "estimated_cost": 100000,
+            "destination_name": "Warung Lokal"
+          },
+          {
+            "time": "13:30",
+            "notes": "Aktivitas bebas biaya.",
+            "activity": "Santai di villa / pemandangan pantai, fotografi sunset",
+            "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkd7RgXKz7CmKYIM44OhF1dLF671jMqvCsT3vvv6p862Aw5EjyIywd5UVUVO7qWJY1_P4gCZTgxXnbo5vl96OTFdBQANE4MYnfJi3eNK9xFV4vE5ObRnVjoZZT83Bp8pwYLcGI=w408-h306-k-no",
+            "destination_id": "2e13e754-5df1-4ab2-bc9c-a6c99389408d",
+            "estimated_cost": 0,
+            "destination_name": "Villa Sungai Kaput / Pantai Biduk-Biduk"
+          },
+          {
+            "time": "19:00",
+            "notes": "Estimasi 2 orang.",
+            "activity": "Makan malam",
+            "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkd7RgXKz7CmKYIM44OhF1dLF671jMqvCsT3vvv6p862Aw5EjyIywd5UVUVO7qWJY1_P4gCZTgxXnbo5vl96OTFdBQANE4MYnfJi3eNK9xFV4vE5ObRnVjoZZT83Bp8pwYLcGI=w408-h306-k-no",
+            "destination_id": "2e13e754-5df1-4ab2-bc9c-a6c99389408d",
+            "estimated_cost": 100000,
+            "destination_name": "Villa Sungai Kaput"
+          }
+        ],
+        "subtotal": 400000
+      },
+      {
+        "day": 4,
+        "date": "2026-07-26",
+        "items": [
+          {
+            "time": "07:00",
+            "notes": "Estimasi sarapan 2 orang.",
+            "activity": "Sarapan & check-out",
+            "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkd7RgXKz7CmKYIM44OhF1dLF671jMqvCsT3vvv6p862Aw5EjyIywd5UVUVO7qWJY1_P4gCZTgxXnbo5vl96OTFdBQANE4MYnfJi3eNK9xFV4vE5ObRnVjoZZT83Bp8pwYLcGI=w408-h306-k-no",
+            "destination_id": "2e13e754-5df1-4ab2-bc9c-a6c99389408d",
+            "estimated_cost": 50000,
+            "destination_name": "Villa Sungai Kaput"
+          },
+          {
+            "time": "08:00",
+            "notes": "Perjalanan ±7 jam, istirahat cukup sebelum mengemudi jauh.",
+            "activity": "Berangkat kembali ke Kaubun menggunakan mobil pribadi (biaya bensin ±Rp 300.000)",
+            "estimated_cost": 300000,
+            "destination_name": "Biduk-Biduk - Kaubun"
+          },
+          {
+            "time": "14:00",
+            "notes": "Estimasi makan siang 2 orang.",
+            "activity": "Tiba di Kaubun, makan siang di jalan",
+            "estimated_cost": 100000,
+            "destination_name": "Kaubun"
+          }
+        ],
+        "subtotal": 450000
+      }
+    ],
+    "cover_image_url": null,
+    "is_public": false,
+    "created_at": "2026-07-23 09:55:20.08477+00",
+    "updated_at": "2026-07-23 09:55:20.08477+00"
+  },
+  {
+    "id": "3a47e67f-49b9-449f-b61e-f4061cbf1a94",
+    "user_id": "3cca89b0-6e1d-41df-8d65-4818f1380bf6",
+    "title": "Perjalanan 4 hari 3 malam dari Samarinda ke Biduk-Biduk mengunjungi Labuan Cermi",
+    "start_date": null,
+    "end_date": null,
+    "status": "completed",
+    "budget_estimate": 6960000.0,
+    "preferences": null,
+    "itinerary": [
+      {
+        "day": 1,
+        "date": "2026-08-04",
+        "items": [
+          {
+            "time": "06:00",
+            "notes": "Sewa mobil one-way, biaya sudah termasuk bensin dan supir",
+            "activity": "Berangkat dari Samarinda menuju Biduk-Biduk dengan sewa mobil termasuk bensin dan supir (perjalanan ±12 jam)",
+            "estimated_cost": 1250000,
+            "destination_name": "Samarinda → Biduk-Biduk"
+          },
+          {
+            "time": "18:00",
+            "notes": "Tarif per malam Rp 400.000, total 3 malam = Rp 1.200.000",
+            "activity": "Check-in & Sewa Villa Sungai Kaput (3 malam @ Rp 400.000/malam)",
+            "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkd7RgXKz7CmKYIM44OhF1dLF671jMqvCsT3vvv6p862Aw5EjyIywd5UVUVO7qWJY1_P4gCZTgxXnbo5vl96OTFdBQANE4MYnfJi3eNK9xFV4vE5ObRnVjoZZT83Bp8pwYLcGI=w408-h306-k-no",
+            "destination_id": "2e13e754-5df1-4ab2-bc9c-a6c99389408d",
+            "estimated_cost": 1200000,
+            "destination_name": "Villa Sungai Kaput"
+          },
+          {
+            "time": "19:30",
+            "notes": "Estimasi makan malam untuk 2 orang",
+            "activity": "Makan malam di warung lokal",
+            "estimated_cost": 100000,
+            "destination_name": "Warung Lokal Biduk-Biduk"
+          }
+        ],
+        "subtotal": 2550000
+      },
+      {
+        "day": 2,
+        "date": "2026-08-05",
+        "items": [
+          {
+            "time": "07:00",
+            "notes": "Estimasi sarapan untuk 2 orang",
+            "activity": "Sarapan pagi",
+            "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkd7RgXKz7CmKYIM44OhF1dLF671jMqvCsT3vvv6p862Aw5EjyIywd5UVUVO7qWJY1_P4gCZTgxXnbo5vl96OTFdBQANE4MYnfJi3eNK9xFV4vE5ObRnVjoZZT83Bp8pwYLcGI=w408-h306-k-no",
+            "destination_id": "2e13e754-5df1-4ab2-bc9c-a6c99389408d",
+            "estimated_cost": 50000,
+            "destination_name": "Villa Sungai Kaput"
+          },
+          {
+            "time": "08:00",
+            "notes": "Sewa ojek carteran bolak-balik ke dermaga",
+            "activity": "Menuju Dermaga Penyebrangan Teluk Sulaiman dengan ojek carteran",
+            "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkl7_JesfI2Ev7W3Pee82p0wXD90VPWR1nmHL7FML6GClejgwqFDwPBSS6Lg9HSODW-J8S_w66GZ6K4oAjClCtYq9eGw512RR7lEv9flckEBf_hr9rIxr2RzZ7OoLzee8A4vAIlgw=w408-h544-k-no",
+            "destination_id": "b5fcb23c-6f3d-4eb8-9f2f-c7c8eaa479d2",
+            "estimated_cost": 100000,
+            "destination_name": "Dermaga Penyebrangan Teluk Sulaiman"
+          },
+          {
+            "time": "08:30",
+            "notes": "Tiket Labuan Cermin sudah mencakup biaya penyeberangan kapal",
+            "activity": "Naik kapal menuju Labuan Cermin (biaya kapal sudah termasuk dalam tiket masuk)",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaYYCk13g-QEvc0tX4_y2-4QLEv1p8wL0Or90TgtPPxl6sg3zn6NSX4G0&s=10",
+            "destination_id": "e02e022f-e179-4b69-8b6b-8e99eee683b1",
+            "estimated_cost": 0,
+            "destination_name": "Labuan Cermin"
+          },
+          {
+            "time": "09:00",
+            "notes": "Tiket masuk Rp 400.000/orang termasuk kapal, total 2 orang = Rp 800.000",
+            "activity": "Wisata Labuan Cermin: snorkeling, fotografi air jernih, dan menikmati pemandangan karst",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaYYCk13g-QEvc0tX4_y2-4QLEv1p8wL0Or90TgtPPxl6sg3zn6NSX4G0&s=10",
+            "destination_id": "e02e022f-e179-4b69-8b6b-8e99eee683b1",
+            "estimated_cost": 800000,
+            "destination_name": "Labuan Cermin"
+          },
+          {
+            "time": "12:00",
+            "notes": "Bawa bekal dari homestay untuk hemat biaya",
+            "activity": "Makan siang (bekal sendiri)",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaYYCk13g-QEvc0tX4_y2-4QLEv1p8wL0Or90TgtPPxl6sg3zn6NSX4G0&s=10",
+            "destination_id": "e02e022f-e179-4b69-8b6b-8e99eee683b1",
+            "estimated_cost": 50000,
+            "destination_name": "Labuan Cermin"
+          },
+          {
+            "time": "14:00",
+            "notes": "Ojek carteran kembali ke villa",
+            "activity": "Kembali ke dermaga dan pulang ke villa dengan ojek carteran",
+            "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkl7_JesfI2Ev7W3Pee82p0wXD90VPWR1nmHL7FML6GClejgwqFDwPBSS6Lg9HSODW-J8S_w66GZ6K4oAjClCtYq9eGw512RR7lEv9flckEBf_hr9rIxr2RzZ7OoLzee8A4vAIlgw=w408-h544-k-no",
+            "destination_id": "b5fcb23c-6f3d-4eb8-9f2f-c7c8eaa479d2",
+            "estimated_cost": 100000,
+            "destination_name": "Dermaga Penyebrangan Teluk Sulaiman"
+          },
+          {
+            "time": "19:00",
+            "notes": "Estimasi makan malam untuk 2 orang",
+            "activity": "Makan malam di warung lokal",
+            "estimated_cost": 100000,
+            "destination_name": "Warung Lokal Biduk-Biduk"
+          }
+        ],
+        "subtotal": 1200000
+      },
+      {
+        "day": 3,
+        "date": "2026-08-06",
+        "items": [
+          {
+            "time": "07:00",
+            "notes": "Estimasi sarapan untuk 2 orang",
+            "activity": "Sarapan pagi",
+            "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkd7RgXKz7CmKYIM44OhF1dLF671jMqvCsT3vvv6p862Aw5EjyIywd5UVUVO7qWJY1_P4gCZTgxXnbo5vl96OTFdBQANE4MYnfJi3eNK9xFV4vE5ObRnVjoZZT83Bp8pwYLcGI=w408-h306-k-no",
+            "destination_id": "2e13e754-5df1-4ab2-bc9c-a6c99389408d",
+            "estimated_cost": 50000,
+            "destination_name": "Villa Sungai Kaput"
+          },
+          {
+            "time": "08:00",
+            "notes": "Sewa ojek carteran bolak-balik ke dermaga",
+            "activity": "Menuju Dermaga Penyebrangan Teluk Sulaiman dengan ojek carteran",
+            "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkl7_JesfI2Ev7W3Pee82p0wXD90VPWR1nmHL7FML6GClejgwqFDwPBSS6Lg9HSODW-J8S_w66GZ6K4oAjClCtYq9eGw512RR7lEv9flckEBf_hr9rIxr2RzZ7OoLzee8A4vAIlgw=w408-h544-k-no",
+            "destination_id": "b5fcb23c-6f3d-4eb8-9f2f-c7c8eaa479d2",
+            "estimated_cost": 100000,
+            "destination_name": "Dermaga Penyebrangan Teluk Sulaiman"
+          },
+          {
+            "time": "08:30",
+            "notes": "Total 2 orang: tiket dermaga Rp 80.000 + kapal Rp 80.000",
+            "activity": "Tiket Dermaga & Naik kapal ke Pulau Kaniungan (biaya tiket dermaga Rp 40.000/orang + kapal Rp 40.000/orang)",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQmuzXVTesSlg-3NYqS0aENCL442YKMwlM8EZ-wmJbPLo0pwaVQBlNIEqz&s=10",
+            "destination_id": "44ca2439-e6bd-471f-9b76-2e4db0ad64e6",
+            "estimated_cost": 160000,
+            "destination_name": "Pulau Kaniungan"
+          },
+          {
+            "time": "09:00",
+            "notes": "Tiket masuk Rp 700.000/orang, total 2 orang = Rp 1.400.000",
+            "activity": "Wisata Pulau Kaniungan: snorkeling, pulau pasir putih, fotografi bawah laut",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQmuzXVTesSlg-3NYqS0aENCL442YKMwlM8EZ-wmJbPLo0pwaVQBlNIEqz&s=10",
+            "destination_id": "44ca2439-e6bd-471f-9b76-2e4db0ad64e6",
+            "estimated_cost": 1400000,
+            "destination_name": "Pulau Kaniungan"
+          },
+          {
+            "time": "12:00",
+            "notes": "Estimasi makan siang sederhana untuk 2 orang",
+            "activity": "Makan siang di pulau",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQmuzXVTesSlg-3NYqS0aENCL442YKMwlM8EZ-wmJbPLo0pwaVQBlNIEqz&s=10",
+            "destination_id": "44ca2439-e6bd-471f-9b76-2e4db0ad64e6",
+            "estimated_cost": 100000,
+            "destination_name": "Pulau Kaniungan"
+          },
+          {
+            "time": "15:00",
+            "notes": "Ojek carteran kembali ke villa",
+            "activity": "Pulang ke dermaga dan kembali ke villa dengan ojek carteran",
+            "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkl7_JesfI2Ev7W3Pee82p0wXD90VPWR1nmHL7FML6GClejgwqFDwPBSS6Lg9HSODW-J8S_w66GZ6K4oAjClCtYq9eGw512RR7lEv9flckEBf_hr9rIxr2RzZ7OoLzee8A4vAIlgw=w408-h544-k-no",
+            "destination_id": "b5fcb23c-6f3d-4eb8-9f2f-c7c8eaa479d2",
+            "estimated_cost": 100000,
+            "destination_name": "Dermaga Penyebrangan Teluk Sulaiman"
+          },
+          {
+            "time": "19:00",
+            "notes": "Estimasi makan malam untuk 2 orang",
+            "activity": "Makan malam di warung lokal",
+            "estimated_cost": 100000,
+            "destination_name": "Warung Lokal Biduk-Biduk"
+          }
+        ],
+        "subtotal": 1910000
+      },
+      {
+        "day": 4,
+        "date": "2026-08-07",
+        "items": [
+          {
+            "time": "07:00",
+            "notes": "Estimasi sarapan untuk 2 orang",
+            "activity": "Sarapan pagi dan check-out",
+            "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkd7RgXKz7CmKYIM44OhF1dLF671jMqvCsT3vvv6p862Aw5EjyIywd5UVUVO7qWJY1_P4gCZTgxXnbo5vl96OTFdBQANE4MYnfJi3eNK9xFV4vE5ObRnVjoZZT83Bp8pwYLcGI=w408-h306-k-no",
+            "destination_id": "2e13e754-5df1-4ab2-bc9c-a6c99389408d",
+            "estimated_cost": 50000,
+            "destination_name": "Villa Sungai Kaput"
+          },
+          {
+            "time": "08:00",
+            "notes": "Sewa mobil one-way kembali, biaya sudah termasuk bensin dan supir",
+            "activity": "Berangkat dari Biduk-Biduk menuju Samarinda dengan sewa mobil termasuk bensin dan supir (perjalanan ±12 jam)",
+            "estimated_cost": 1250000,
+            "destination_name": "Biduk-Biduk → Samarinda"
+          },
+          {
+            "time": "20:00",
+            "notes": "",
+            "activity": "Tiba di Samarinda, perjalanan selesai",
+            "estimated_cost": 0,
+            "destination_name": "Samarinda"
+          }
+        ],
+        "subtotal": 1300000
+      }
+    ],
+    "cover_image_url": null,
+    "is_public": false,
+    "created_at": "2026-08-01 06:28:12.748155+00",
+    "updated_at": "2026-08-01 06:29:11.032029+00"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "3cca89b0-6e1d-41df-8d65-4818f1380bf6",
+    "full_name": "Padang Mahsyar",
+    "username": null,
+    "email": "kiritokazutobolt@gmail.com",
+    "email_verified_at": "2026-07-18 05:54:18.29414+00",
+    "password": "$2a$10$8rChM6RIuXKSbZ/xCRnfNe2.A0DMjcWMBbpiXfyvEuRmgeVgOVhB.",
+    "avatar_url": null,
+    "bio": null,
+    "home_city": null,
+    "role": "admin",
+    "created_at": "2026-07-18 05:53:26.710773+00",
+    "updated_at": "2026-07-18 09:35:54.35523+00"
+  },
+  {
+    "id": "890f3884-134c-4290-9b84-b0b0dc713bd5",
+    "full_name": "Nuca",
+    "username": null,
+    "email": "nucaaeon@gmail.com",
+    "email_verified_at": "2026-08-01 07:07:07.912825+00",
+    "password": "$2a$10$xS7iCTwWD08CKEahXTnw0e2FUTfXEnDySrAxYRmCTGpgrCNTmH28S",
+    "avatar_url": null,
+    "bio": null,
+    "home_city": null,
+    "role": "admin",
+    "created_at": "2026-08-01 07:06:12.959671+00",
+    "updated_at": "2026-08-01 07:11:26.390967+00"
+  }
+]
