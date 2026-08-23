@@ -41,7 +41,3 @@ limit ~20 req/menit). Bukan OpenAI. Bisa diganti model lain (termasuk model
 OpenAI berbayar) lewat env `OPENROUTER_MODEL` di `wihsata-api/.env` — tidak
 perlu ubah kode.
 
-## Aturan yang dijaga sepanjang migrasi
-- Supabase sumber **tidak pernah dihapus** (data asli tetap ada sebagai cadangan).
-- Tidak pernah `migrate:fresh` / `migrate:refresh` / `db:wipe`.
-- ID & relasi data dipertahankan.
