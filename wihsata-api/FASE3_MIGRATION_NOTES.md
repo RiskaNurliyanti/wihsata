@@ -1,21 +1,7 @@
 # Fase 3 — Migrasi Data Supabase → PostgreSQL/Neon (Selesai)
 
-## Yang dikerjakan
-1. **Ekstraksi data dari `full-backup.sql`** (dump Supabase yang sudah ada di repo
-   frontend) — parser khusus (`/home/claude/parse_dump.py`, tidak ikut di-zip karena
-   cuma tool internal) dipakai untuk membaca statement `INSERT INTO` secara
-   character-level (aman terhadap koma & titik-koma yang muncul di dalam teks/JSON,
-   mis. field notes trip yang mengandung `"...pukul 15:00; cuaca cerah..."`).
-2. **Fixture JSON hasil ekstraksi** disimpan di `database/data-import/*.json`:
-   `categories.json` (9), `districts.json` (517), `users.json` (2),
-   `destinations.json` (8), `subscriptions.json` (2), `trips.json` (4).
-   File-file ini **bukan** koneksi langsung ke Supabase — datanya statis, hasil
-   ekstraksi satu kali dari dump yang Anda berikan.
-3. **Command `php artisan wihsata:import-supabase-data`**
-   (`app/Console/Commands/ImportSupabaseData.php`) — import fixture di atas ke
-   Postgres/Neon dengan aman.
 
-## Keputusan mapping data (audit-based, bukan asumsi)
+## Keputusan mapping data
 - **`auth.users` + `public.profiles` Supabase digabung** jadi 1 baris di tabel
   `users` Laravel (sesuai struktur Laravel yang sudah ada — 1 tabel users, bukan
   auth+profiles terpisah).
@@ -97,7 +83,4 @@ pastikan semua baris `OK` sebelum lanjut ke fase berikutnya.
   sandbox ini untuk `php artisan` sungguhan — jalankan langkah "Cara
   menjalankan" di atas pada environment Anda untuk uji end-to-end final.)*
 
-## Status
-Data siap diimpor, sumber Supabase tidak tersentuh sama sekali. Menunggu Anda
-menjalankan command di environment nyata untuk konfirmasi akhir sebelum
-melanjutkan ke Fase 4.
+
